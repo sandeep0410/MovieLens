@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/group_list_item_height"
+    android:layout_gravity="center_vertical"
+    android:layout_marginLeft="@dimen/group_list_item_margin_left_right"
+    android:layout_marginRight="@dimen/group_list_item_margin_left_right"
+    android:gravity="center_vertical"
+    android:orientation="horizontal" >
+
+    <ImageView
+        android:id="@+id/voted_movie_result_image_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp" />
+
+    <TextView
+        android:id="@+id/voted_movie_result_name"
+        android:layout_width="178dp"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/group_list_item_text_marginLeft"
+        android:layout_marginRight="5dp"
+        android:ellipsize="marquee"
+        android:fadingEdge="horizontal"
+        android:gravity="center_vertical"
+        android:marqueeRepeatLimit="1"
+        android:scrollHorizontally="true"
+        android:singleLine="true"
+        android:textSize="@dimen/group_list_item_textsize" />
+
+    <TextView
+        android:id="@+id/upvoted_number"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:text="0"
+        android:textSize="14dp" />
+
+    <ImageView
+        android:id="@+id/voted_up_result_image"
+        android:layout_width="34dp"
+        android:layout_height="34dp"
+        android:background="@drawable/voted_up_image_selector" />
+
+    <TextView
+        android:id="@+id/downvoted_number"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:text="0"
+        android:textSize="14dp" />
+
+    <ImageView
+        android:id="@+id/voted_down_result_image"
+        android:layout_width="34dp"
+        android:layout_height="34dp"
+        android:background="@drawable/voted_down_image_selector" >
+    </ImageView>
+
+</LinearLayout>

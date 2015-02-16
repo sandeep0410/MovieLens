@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <Button
+        android:id="@+id/clear_all"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="Clear All Votes" >
+    </Button>
+
+    <ListView
+        android:id="@+id/voted_movie_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/clear_all"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="@dimen/group_list_fragment_listview_marginleft"
+        android:layout_marginRight="@dimen/group_list_fragment_listview_marginleft"
+        android:layout_marginTop="@dimen/add_friends_listViewMarginTop" >
+    </ListView>
+
+</RelativeLayout>

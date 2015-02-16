@@ -1,0 +1,4166 @@
+[
+    {
+        "budget": 40000000, 
+        "genres": [
+            "Action", 
+            "Science Fiction"
+        ], 
+        "image": "240832.jpg", 
+        "overview": "A woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic.", 
+        "pk": 240832, 
+        "release_date": "2014-08-06", 
+        "revenue": 434084110, 
+        "runtime": 89, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "The average person uses 10% of their brain capacity. Imagine what she could do with 100%.", 
+        "title": "Lucy", 
+        "vote_average": 6.7, 
+        "vote_count": 630
+    }, 
+    {
+        "budget": 145000000, 
+        "genres": [
+            "Action", 
+            "Adventure", 
+            "Animation", 
+            "Comedy", 
+            "Fantasy", 
+            "Family"
+        ], 
+        "image": "82702.jpg", 
+        "overview": "The thrilling second chapter of the epic How To Train Your Dragon trilogy brings back the fantastical world of Hiccup and Toothless five years later. While Astrid, Snotlout and the rest of the gang are challenging each other to dragon races (the island's new favorite contact sport), the now inseparable pair journey through the skies, charting unmapped territories and exploring new worlds. When one of their adventures leads to the discovery of a secret ice cave that is home to hundreds of new wild dragons and the mysterious Dragon Rider, the two friends find themselves at the center of a battle to protect the peace.", 
+        "pk": 82702, 
+        "release_date": "2014-06-13", 
+        "revenue": 609123048, 
+        "runtime": 102, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "The training is over.", 
+        "title": "How to Train Your Dragon 2", 
+        "vote_average": 8.2, 
+        "vote_count": 475
+    }, 
+    {
+        "budget": 18000000, 
+        "genres": [
+            "Action", 
+            "Thriller"
+        ], 
+        "image": "241254.jpg", 
+        "overview": "A family man who turns out to be a retired mob enforcer must travel across the country to find his daughter who has gone missing.", 
+        "pk": 241254, 
+        "release_date": "2014-08-22", 
+        "revenue": 266586800, 
+        "runtime": 93, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Mercy is for the Weak", 
+        "title": "The Prince", 
+        "vote_average": 5.7, 
+        "vote_count": 35
+    }, 
+    {
+        "budget": 125000000, 
+        "genres": [
+            "Action", 
+            "Adventure", 
+            "Comedy", 
+            "Fantasy", 
+            "Science Fiction"
+        ], 
+        "image": "98566.jpg", 
+        "overview": "The city needs heroes. Darkness has settled over New York City as Shredder and his evil Foot Clan have an iron grip on everything from the police to the politicians. The future is grim until four unlikely outcast brothers rise from the sewers and discover their destiny as Teenage Mutant Ninja Turtles. The Turtles must work with fearless reporter April and her wise-cracking cameraman Vern Fenwick to save the city and unravel Shredder's diabolical plan.", 
+        "pk": 98566, 
+        "release_date": "2014-08-08", 
+        "revenue": 375140446, 
+        "runtime": 101, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Mysterious. Dangerous. Reptilious. You've never seen heroes like this.", 
+        "title": "Teenage Mutant Ninja Turtles", 
+        "vote_average": 6.6, 
+        "vote_count": 269
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Action", 
+            "Adventure"
+        ], 
+        "image": "184315.jpg", 
+        "overview": "Fourteen hundred years ago, a tormented soul walked the earth that was neither man nor god. Hercules was the powerful son of the god king Zeus, for this he received nothing but suffering his entire life. After twelve arduous labors and the loss of his family, this dark, world-weary soul turned his back on the gods finding his only solace in bloody battle. Over the years he warmed to the company of six similar souls, their only bond being their love of fighting and presence of death. These men and woman never question where they go to fight or why or whom, just how much they will be paid. Now the King of Thrace has hired these mercenaries to train his men to become the greatest army of all time. It is time for this bunch of lost souls to finally have their eyes opened to how far they have fallen when they must train an army to become as ruthless and blood thirsty as their reputation has become.", 
+        "pk": 184315, 
+        "release_date": "2014-07-23", 
+        "revenue": 0, 
+        "runtime": 99, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Before he was a legend, he was a man.", 
+        "title": "Hercules", 
+        "vote_average": 6.1, 
+        "vote_count": 243
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Action", 
+            "Thriller"
+        ], 
+        "image": "245891.jpg", 
+        "overview": "An ex-hitman comes out of retirement to track down the gangsters that took everything from him.", 
+        "pk": 245891, 
+        "release_date": "2014-10-24", 
+        "revenue": 0, 
+        "runtime": 101, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Don't set him off.", 
+        "title": "John Wick", 
+        "vote_average": 7.7, 
+        "vote_count": 48
+    }, 
+    {
+        "budget": 80000000, 
+        "genres": [
+            "Action", 
+            "Drama", 
+            "War"
+        ], 
+        "image": "228150.jpg", 
+        "overview": "Last months of World War II in April 1945. As the Allies make their final push in the European Theater, a battle-hardened U.S. Army sergeant in the 2nd Armored Division named Wardaddy commands a Sherman tank called \"Fury\" and its five-man crew on a deadly mission behind enemy lines. Outnumbered and outgunned, Wardaddy and his men face overwhelming odds in their heroic attempts to strike at the heart of Nazi Germany.", 
+        "pk": 228150, 
+        "release_date": "2014-10-17", 
+        "revenue": 0, 
+        "runtime": 135, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "War never ends quietly.", 
+        "title": "Fury", 
+        "vote_average": 8.1, 
+        "vote_count": 94
+    }, 
+    {
+        "budget": 250000000, 
+        "genres": [
+            "Action", 
+            "Adventure", 
+            "Fantasy", 
+            "Science Fiction"
+        ], 
+        "image": "127585.jpg", 
+        "overview": "The ultimate X-Men ensemble fights a war for the survival of the species across two time periods in X-MEN: DAYS OF FUTURE PAST. The beloved characters from the original \u201cX-Men\u201d film trilogy join forces with their younger selves from \u201cX-Men: First Class,\u201d in an epic battle that must change the past \u2013 to save our future.", 
+        "pk": 127585, 
+        "release_date": "2014-05-23", 
+        "revenue": 746000000, 
+        "runtime": 131, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "To save the future, they must alter the past", 
+        "title": "X-Men: Days of Future Past", 
+        "vote_average": 7.8, 
+        "vote_count": 1167
+    }, 
+    {
+        "budget": 178000000, 
+        "genres": [
+            "Action", 
+            "Science Fiction"
+        ], 
+        "image": "137113.jpg", 
+        "overview": "Major Bill Cage is an officer who has never seen a day of combat when he is unceremoniously demoted and dropped into combat. Cage is killed within minutes, managing to take an alpha alien down with him. He awakens back at the beginning of the same day and is forced to fight and die again... and again - as physical contact with the alien has thrown him into a time loop.", 
+        "pk": 137113, 
+        "release_date": "2014-06-06", 
+        "revenue": 369200000, 
+        "runtime": 113, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Live, Die, Repeat", 
+        "title": "Edge of Tomorrow", 
+        "vote_average": 7.8, 
+        "vote_count": 883
+    }, 
+    {
+        "budget": 12000000, 
+        "genres": [
+            "Drama", 
+            "Romance"
+        ], 
+        "image": "222935.jpg", 
+        "overview": "Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a patient named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.", 
+        "pk": 222935, 
+        "release_date": "2014-05-16", 
+        "revenue": 0, 
+        "runtime": 125, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "One Sick Love Story", 
+        "title": "The Fault in Our Stars", 
+        "vote_average": 8.2, 
+        "vote_count": 529
+    }, 
+    {
+        "budget": 165000000, 
+        "genres": [
+            "Action", 
+            "Adventure", 
+            "Science Fiction"
+        ], 
+        "image": "91314.jpg", 
+        "overview": "As humanity picks up the pieces, following the conclusion of \"Transformers: Dark of the Moon,\" Autobots and Decepticons have all but vanished from the face of the planet. However, a group of powerful, ingenious businessman and scientists attempt to learn from past Transformer incursions and push the boundaries of technology beyond what they can control - all while an ancient, powerful Transformer menace sets Earth in his cross-hairs.", 
+        "pk": 91314, 
+        "release_date": "2014-06-27", 
+        "revenue": 1087289076, 
+        "runtime": 165, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "This is not war. It's extinction.", 
+        "title": "Transformers: Age of Extinction", 
+        "vote_average": 6.4, 
+        "vote_count": 732
+    }, 
+    {
+        "budget": 180000000, 
+        "genres": [
+            "Action", 
+            "Adventure", 
+            "Fantasy", 
+            "Romance", 
+            "Family"
+        ], 
+        "image": "102651.jpg", 
+        "overview": "The untold story of Disney's most iconic villain from the 1959 classic 'Sleeping Beauty'. A beautiful, pure-hearted young woman, Maleficent has an idyllic life growing up in a peaceable forest kingdom, until one day when an invading army threatens the harmony of the land.  Maleficent rises to be the land's fiercest protector, but she ultimately suffers a ruthless betrayal \u2013 an act that begins to turn her heart into stone. Bent on revenge, Maleficent faces an epic battle with the invading King's successor and, as a result, places a curse upon his newborn infant Aurora. As the child grows, Maleficent realizes that Aurora holds the key to peace in the kingdom - and to Maleficent's true happiness as well.", 
+        "pk": 102651, 
+        "release_date": "2014-05-30", 
+        "revenue": 757200000, 
+        "runtime": 97, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Don't believe the fairy tale.", 
+        "title": "Maleficent", 
+        "vote_average": 7.2, 
+        "vote_count": 724
+    }, 
+    {
+        "budget": 200000000, 
+        "genres": [
+            "Drama", 
+            "Science Fiction"
+        ], 
+        "image": "157336.jpg", 
+        "overview": "Interstellar chronicles the adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.", 
+        "pk": 157336, 
+        "release_date": "2014-11-07", 
+        "revenue": 0, 
+        "runtime": 169, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Mankind was born on Earth. It was never meant to die here.", 
+        "title": "Interstellar", 
+        "vote_average": 9.0, 
+        "vote_count": 201
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Comedy"
+        ], 
+        "image": "239563.jpg", 
+        "overview": "A young boy whose parents just divorced finds an unlikely friend and mentor in the misanthropic, bawdy, hedonistic, war veteran who lives next door.", 
+        "pk": 239563, 
+        "release_date": "2014-10-31", 
+        "revenue": 0, 
+        "runtime": 103, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "", 
+        "title": "St. Vincent", 
+        "vote_average": 8.2, 
+        "vote_count": 12
+    }, 
+    {
+        "budget": 170000000, 
+        "genres": [
+            "Adventure", 
+            "Fantasy", 
+            "Science Fiction"
+        ], 
+        "image": "118340.jpg", 
+        "overview": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.", 
+        "pk": 118340, 
+        "release_date": "2014-08-01", 
+        "revenue": 0, 
+        "runtime": 121, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "All heroes start somewhere.", 
+        "title": "Guardians of the Galaxy", 
+        "vote_average": 8.6, 
+        "vote_count": 1029
+    }, 
+    {
+        "budget": 170000000, 
+        "genres": [
+            "Action", 
+            "Drama", 
+            "Science Fiction", 
+            "Thriller"
+        ], 
+        "image": "119450.jpg", 
+        "overview": "A group of scientists in San Francisco struggle to stay alive in the aftermath of a plague that is wiping out humanity, while Caesar tries to maintain dominance over his community of intelligent apes.", 
+        "pk": 119450, 
+        "release_date": "2014-07-11", 
+        "revenue": 0, 
+        "runtime": 130, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "One last chance for peace.", 
+        "title": "Dawn of the Planet of the Apes", 
+        "vote_average": 7.8, 
+        "vote_count": 669
+    }, 
+    {
+        "budget": 25000000, 
+        "genres": [
+            "Drama", 
+            "Science Fiction"
+        ], 
+        "image": "227156.jpg", 
+        "overview": "The haunting story of 'The Giver' centers on Jonas (Brenton Thwaites), a young man who lives in a seemingly ideal, if colorless, world of conformity and contentment. Yet as he begins to spend time with The Giver (Jeff Bridges), who is the sole keeper of all the community\u2019s memories, Jonas quickly begins to discover the dark and deadly truths of his community\u2019s secret past. With this newfound power of knowledge, he realizes that the stakes are higher than imagined \u2013 a matter of life and death for himself and those he loves most. At extreme odds, Jonas knows that he must escape their world to protect them all \u2013 a challenge that no one has ever succeeded at before.", 
+        "pk": 227156, 
+        "release_date": "2014-08-11", 
+        "revenue": 0, 
+        "runtime": 94, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "You can make things better.", 
+        "title": "The Giver", 
+        "vote_average": 6.7, 
+        "vote_count": 126
+    }, 
+    {
+        "budget": 15000000, 
+        "genres": [
+            "Science Fiction", 
+            "Thriller"
+        ], 
+        "image": "262543.jpg", 
+        "overview": "Jacq Vaucan, an insurance agent of ROC robotics corporation, routinely investigates the case of manipulating a robot. What he discovers will have profound consequences for the future of humanity.", 
+        "pk": 262543, 
+        "release_date": "2014-10-10", 
+        "revenue": 0, 
+        "runtime": 110, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Your time is coming to an end \u2013 Ours is now beginning", 
+        "title": "Aut\u00f3mata", 
+        "vote_average": 5.8, 
+        "vote_count": 47
+    }, 
+    {
+        "budget": 50000000, 
+        "genres": [
+            "Drama", 
+            "Mystery", 
+            "Thriller"
+        ], 
+        "image": "210577.jpg", 
+        "overview": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.", 
+        "pk": 210577, 
+        "release_date": "2014-10-03", 
+        "revenue": 0, 
+        "runtime": 149, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "You don't know what you've got 'til it's...", 
+        "title": "Gone Girl", 
+        "vote_average": 8.5, 
+        "vote_count": 288
+    }, 
+    {
+        "budget": 90000000, 
+        "genres": [
+            "Action", 
+            "Adventure", 
+            "Thriller"
+        ], 
+        "image": "138103.jpg", 
+        "overview": "Barney (Stallone), Christmas (Statham) and the rest of the team comes face-to-face with Conrad Stonebanks (Gibson), who years ago co-founded The Expendables with Barney. Stonebanks subsequently became a ruthless arms trader and someone who Barney was forced to kill... or so he thought. Stonebanks, who eluded death once before, now is making it his mission to end The Expendables -- but Barney has other plans. Barney decides that he has to fight old blood with new blood, and brings in a new era of Expendables team members, recruiting individuals who are younger, faster and more tech-savvy. The latest mission becomes a clash of classic old-school style versus high-tech expertise in the Expendables' most personal battle yet.", 
+        "pk": 138103, 
+        "release_date": "2014-08-15", 
+        "revenue": 204000000, 
+        "runtime": 127, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "New team. New attitude. New mission.", 
+        "title": "The Expendables 3", 
+        "vote_average": 6.7, 
+        "vote_count": 368
+    }, 
+    {
+        "budget": 18000000, 
+        "genres": [
+            "Comedy"
+        ], 
+        "image": "195589.jpg", 
+        "overview": "A couple with a newborn baby face unexpected difficulties after they are forced to live next to a fraternity house.", 
+        "pk": 195589, 
+        "release_date": "2014-05-09", 
+        "revenue": 0, 
+        "runtime": 96, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Family vs. Frat", 
+        "title": "Neighbors", 
+        "vote_average": 6.4, 
+        "vote_count": 486
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Horror", 
+            "Thriller"
+        ], 
+        "image": "185341.jpg", 
+        "overview": "\u00c1ngela Vidal the young television reporter who entered the building with the fireman, manages to make it out alive. But what the soldiers don?t know is that she carries the seed of the strange infection. She is to be taken to a provisional quarantine facility, a high-security installation where she will have to stay in isolation for several days. An old oil tanker, miles off shore and surrounded by water on all sides, has been especially equipped for the quarantine.", 
+        "pk": 185341, 
+        "release_date": "2014-10-31", 
+        "revenue": 0, 
+        "runtime": 0, 
+        "spoken_languages": [
+            "Espa\u00f1ol"
+        ], 
+        "tagline": "It's time to leave.", 
+        "title": "[REC] 4: Apocalypse", 
+        "vote_average": 7.7, 
+        "vote_count": 6
+    }, 
+    {
+        "budget": 17000000, 
+        "genres": [
+            "Comedy"
+        ], 
+        "image": "193893.jpg", 
+        "overview": "It's the ultimate buddy cop movie except for one thing: they're not cops.  When two struggling pals dress as police officers for a costume party, they become neighborhood sensations.  But when these newly-minted \u201cheroes\u201d get tangled in a real life web of mobsters and dirty detectives, they must put their fake badges on the line.", 
+        "pk": 193893, 
+        "release_date": "2014-08-13", 
+        "revenue": 0, 
+        "runtime": 104, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Fake Cops. Real Trouble.", 
+        "title": "Let's Be Cops", 
+        "vote_average": 7.0, 
+        "vote_count": 87
+    }, 
+    {
+        "budget": 40000000, 
+        "genres": [
+            "Comedy"
+        ], 
+        "image": "232672.jpg", 
+        "overview": "After a bad blind date, a man and woman find themselves stuck together at a resort for families, where their attractions grows as their respective kids benefit from the burgeoning relationship.", 
+        "pk": 232672, 
+        "release_date": "2014-05-23", 
+        "revenue": 123494610, 
+        "runtime": 117, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Single Dad, No Clue. Single Mum, Flying Solo.", 
+        "title": "Blended", 
+        "vote_average": 6.9, 
+        "vote_count": 190
+    }, 
+    {
+        "budget": 12250000, 
+        "genres": [
+            "Crime", 
+            "Drama"
+        ], 
+        "image": "157845.jpg", 
+        "overview": "A decade after the collapse of the western world, Australia has become a lawless wasteland. As desperate outsiders pillage the country's precious mineral resources, taciturn Eric travels from town to town searching for signs of life.", 
+        "pk": 157845, 
+        "release_date": "2014-05-18", 
+        "revenue": 0, 
+        "runtime": 100, 
+        "spoken_languages": [
+            "\u4e2d\u56fd", 
+            "English"
+        ], 
+        "tagline": "Fear the man with nothing left to lose.", 
+        "title": "The Rover", 
+        "vote_average": 6.1, 
+        "vote_count": 35
+    }, 
+    {
+        "budget": 24000000, 
+        "genres": [
+            "Comedy", 
+            "Romance"
+        ], 
+        "image": "184098.jpg", 
+        "overview": "All the couples are back for a wedding in Las Vegas, but plans for a romantic weekend go awry when their various misadventures get them into some compromising situations that threaten to derail the big event.", 
+        "pk": 184098, 
+        "release_date": "2014-06-20", 
+        "revenue": 70000000, 
+        "runtime": 106, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "", 
+        "title": "Think Like a Man Too", 
+        "vote_average": 7.5, 
+        "vote_count": 34
+    }, 
+    {
+        "budget": 33000000, 
+        "genres": [
+            "Adventure", 
+            "Drama", 
+            "Family"
+        ], 
+        "image": "157841.jpg", 
+        "overview": "A 12-year-old cartographer secretly leaves his family's ranch in Montana where he lives with his cowboy father and scientist mother and travels across the country on board a freight train to receive an award at the Smithsonian Institute.", 
+        "pk": 157841, 
+        "release_date": "2014-10-26", 
+        "revenue": 0, 
+        "runtime": 105, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "", 
+        "title": "The Young and Prodigious T.S. Spivet", 
+        "vote_average": 6.6, 
+        "vote_count": 38
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Drama", 
+            "Western"
+        ], 
+        "image": "259611.jpg", 
+        "overview": "After crossing the border illegally for work, Miguel, a hard-working father and devoted husband, finds himself wrongfully accused of murdering a former sheriff\u2019s wife. After learning of his imprisonment, Miguel\u2019s pregnant wife tries to come to his aid and lands in the hands of corrupt coyotes who hold her for ransom. Dissatisfied with the police department\u2019s investigation, the former sheriff tries to uncover the truth about his wife\u2019s death and discovers disturbing evidence that will destroy one family\u2019s future, or tear another\u2019s apart.", 
+        "pk": 259611, 
+        "release_date": "2014-09-05", 
+        "revenue": 0, 
+        "runtime": 103, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "", 
+        "title": "Frontera", 
+        "vote_average": 6.5, 
+        "vote_count": 2
+    }, 
+    {
+        "budget": 40000000, 
+        "genres": [
+            "Comedy"
+        ], 
+        "image": "225886.jpg", 
+        "overview": "When Jay and Annie first got together, their romantic connection was intense \u2013 but ten years and two kids later, the flame of their love needs a spark.  To kick things up a notch, they decide \u2013 why not? \u2013 to make a video of themselves trying out every position in The Joy of Sex in one marathon three-hour session.  It seems like a great idea \u2013 until they discover that their most private video is no longer private.  With their reputations on the line, they know they\u2019re just one click away from being laid bare to the world... but as their race to reclaim their video leads to a night they'll never forget, they'll find that their video will expose even more than they bargained for.", 
+        "pk": 225886, 
+        "release_date": "2014-07-18", 
+        "revenue": 0, 
+        "runtime": 97, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "A movie about a movie they don't want you to see.", 
+        "title": "Sex Tape", 
+        "vote_average": 6.1, 
+        "vote_count": 241
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Action"
+        ], 
+        "image": "286548.jpg", 
+        "overview": "Based the game \"Tekken\" of the same name, this movie is a prequel to 2010's \"Tekken\" movie adaptation. It follows Kazuya Mishima, who suffers from amnesia as he tries to find out who he really is while kidnapped by an underground crime organization.", 
+        "pk": 286548, 
+        "release_date": "2014-08-12", 
+        "revenue": 0, 
+        "runtime": 90, 
+        "spoken_languages": [
+            "\u65e5\u672c\u8a9e", 
+            "English"
+        ], 
+        "tagline": "Survival Is No Game", 
+        "title": "Tekken 2: Kazuya's Revenge", 
+        "vote_average": 4.4, 
+        "vote_count": 7
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Adventure", 
+            "Animation", 
+            "Comedy", 
+            "Fantasy", 
+            "Romance", 
+            "Family"
+        ], 
+        "image": "228326.jpg", 
+        "overview": "From producer Guillermo del Toro and director Jorge Gutierrez comes an animated comedy with a unique visual style. THE BOOK OF LIFE is the journey of Manolo, a young man who is torn between fulfilling the expectations of his family and following his heart. Before choosing which path to follow, he embarks on an incredible adventure that spans three fantastical worlds where he must face his greatest fears. Rich with a fresh take on pop music favorites, THE BOOK OF LIFE encourages us to celebrate the past while looking forward to the future.", 
+        "pk": 228326, 
+        "release_date": "2014-10-17", 
+        "revenue": 0, 
+        "runtime": 95, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "", 
+        "title": "The Book of Life", 
+        "vote_average": 7.1, 
+        "vote_count": 17
+    }, 
+    {
+        "budget": 65000000, 
+        "genres": [
+            "Crime", 
+            "Suspense"
+        ], 
+        "image": "189.jpg", 
+        "overview": "Some of Sin City's most hard-boiled citizens cross paths with a few of its more reviled inhabitants.", 
+        "pk": 189, 
+        "release_date": "2014-08-22", 
+        "revenue": 35084450, 
+        "runtime": 102, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "There is no justice without sin.", 
+        "title": "Sin City: A Dame to Kill For", 
+        "vote_average": 6.7, 
+        "vote_count": 188
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Drama"
+        ], 
+        "image": "85350.jpg", 
+        "overview": "The film tells a story of a divorced couple trying to raise their young son. The story follows the boy for twelve years, from first grade at age 6 through 12th grade at age 17-18, and examines his relationship with his parents as he grows.", 
+        "pk": 85350, 
+        "release_date": "2014-07-11", 
+        "revenue": 0, 
+        "runtime": 164, 
+        "spoken_languages": [
+            "Espa\u00f1ol", 
+            "English"
+        ], 
+        "tagline": "12 years in the making.", 
+        "title": "Boyhood", 
+        "vote_average": 8.5, 
+        "vote_count": 162
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Horror", 
+            "Science Fiction", 
+            "Thriller"
+        ], 
+        "image": "267806.jpg", 
+        "overview": "V/H/S: VIRAL's segments include the story of a deranged illusionist who obtains a magical object of great power, a homemade machine that opens a door to a parallel world, teenage skaters that unwillingly become targets of a Mexican death cult ritual, and a sinister, shadowy organization that is tracking a serial killer. The segments are tied together by the story of a group of fame-obsessed teens following a violent car chase in LA that unwittingly become stars of the next internet sensation.", 
+        "pk": 267806, 
+        "release_date": "2014-10-23", 
+        "revenue": 0, 
+        "runtime": 81, 
+        "spoken_languages": [
+            "Espa\u00f1ol", 
+            "English"
+        ], 
+        "tagline": "", 
+        "title": "V/H/S: Viral", 
+        "vote_average": 3.8, 
+        "vote_count": 11
+    }, 
+    {
+        "budget": 35000000, 
+        "genres": [
+            "Action", 
+            "Crime", 
+            "Drama", 
+            "Science Fiction", 
+            "Thriller"
+        ], 
+        "image": "42194.jpg", 
+        "overview": "In the year of 2039, after World Wars destroy much of the civilization as we know it, territories are no longer run by governments, but by corporations; the mightiest of which is the Mishima Zaibatsu. In order to placate the seething masses of this dystopia, Mishima sponsors Tekken, a tournament in which fighters battle until only one is left standing.", 
+        "pk": 42194, 
+        "release_date": "2010-03-20", 
+        "revenue": 967000, 
+        "runtime": 92, 
+        "spoken_languages": [
+            "\u65e5\u672c\u8a9e", 
+            "\u4e2d\u56fd", 
+            "English"
+        ], 
+        "tagline": "Survival is no game", 
+        "title": "Tekken", 
+        "vote_average": 5.1, 
+        "vote_count": 44
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Action", 
+            "Crime", 
+            "Drama"
+        ], 
+        "image": "169917.jpg", 
+        "overview": "Private investigator Matthew Scudder is hired by a drug kingpin to find out who kidnapped him and murdered his wife.", 
+        "pk": 169917, 
+        "release_date": "2014-09-19", 
+        "revenue": 0, 
+        "runtime": 113, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Some people are afraid of all the wrong things", 
+        "title": "A Walk Among the Tombstones", 
+        "vote_average": 6.5, 
+        "vote_count": 54
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Action", 
+            "Animation", 
+            "Comedy", 
+            "Science Fiction", 
+            "Family"
+        ], 
+        "image": "177572.jpg", 
+        "overview": "The special bond that develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.", 
+        "pk": 177572, 
+        "release_date": "2014-11-07", 
+        "revenue": 0, 
+        "runtime": 102, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "", 
+        "title": "Big Hero 6", 
+        "vote_average": 7.8, 
+        "vote_count": 24
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Thriller"
+        ], 
+        "image": "157849.jpg", 
+        "overview": "When a half-Chechen, half-Russian, tortured half-to-death immigrant turns up in Hamburg's Islamic community, laying claim to his father's ill gotten fortune, both German and US security agencies take a close interest: as the clock ticks down and the stakes rise, the race is on to establish this most wanted man's true identity - oppressed victim or destruction-bent extremist?", 
+        "pk": 157849, 
+        "release_date": "2014-07-25", 
+        "revenue": 0, 
+        "runtime": 121, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "", 
+        "title": "A Most Wanted Man", 
+        "vote_average": 6.6, 
+        "vote_count": 61
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Action", 
+            "Thriller"
+        ], 
+        "image": "216282.jpg", 
+        "overview": "The town of Silverton is in one day destroyed by the unprecedented power of a series of tornadoes. The population is at the mercy of the unpredictable and deadly cyclones, while hunters warn that the worst is yet to come. Most people find shelter, but some just go to the tornado for that one, unique shot.", 
+        "pk": 216282, 
+        "release_date": "2014-08-08", 
+        "revenue": 0, 
+        "runtime": 89, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Prepare to go", 
+        "title": "Into the Storm", 
+        "vote_average": 6.2, 
+        "vote_count": 111
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Comedy", 
+            "Drama"
+        ], 
+        "image": "120467.jpg", 
+        "overview": "The Grand Budapest Hotel tells of a legendary concierge at a famous European hotel between the wars and his friendship with a young employee who becomes his trusted prot\u00e9g\u00e9. The story involves the theft and recovery of a priceless Renaissance painting, the battle for an enormous family fortune and the slow and then sudden upheavals that transformed Europe during the first half of the 20th century.", 
+        "pk": 120467, 
+        "release_date": "2014-03-07", 
+        "revenue": 0, 
+        "runtime": 99, 
+        "spoken_languages": [
+            "English", 
+            "Fran\u00e7ais"
+        ], 
+        "tagline": "A Film by Wes Anderson", 
+        "title": "The Grand Budapest Hotel", 
+        "vote_average": 8.1, 
+        "vote_count": 500
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Action", 
+            "Crime", 
+            "Thriller"
+        ], 
+        "image": "254904.jpg", 
+        "overview": "An ex- CIA operative is brought back in on a very personal mission and finds himself pitted against his former pupil in a deadly game involving high level CIA officials and the Russian president-elect.", 
+        "pk": 254904, 
+        "release_date": "2014-08-27", 
+        "revenue": 0, 
+        "runtime": 108, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "A Spy is Never Out of the Game", 
+        "title": "The November Man", 
+        "vote_average": 6.2, 
+        "vote_count": 40
+    }, 
+    {
+        "budget": 20000000, 
+        "genres": [
+            "Drama", 
+            "History"
+        ], 
+        "image": "76203.jpg", 
+        "overview": "In the pre-Civil War United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery. Facing cruelty as well as unexpected kindnesses Solomon struggles not only to stay alive, but to retain his dignity. In the twelfth year of his unforgettable odyssey, Solomon\u2019s chance meeting with a Canadian abolitionist will forever alter his life.", 
+        "pk": 76203, 
+        "release_date": "2013-10-30", 
+        "revenue": 0, 
+        "runtime": 134, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "The extraordinary true story of Solomon Northup", 
+        "title": "12 Years a Slave", 
+        "vote_average": 8.0, 
+        "vote_count": 542
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Drama", 
+            "Music", 
+            "Romance"
+        ], 
+        "image": "243683.jpg", 
+        "overview": "All-stars from the previous Step Up installments come together in glittering Las Vegas, battling for a victory that could define their dreams and their careers.", 
+        "pk": 243683, 
+        "release_date": "2014-07-25", 
+        "revenue": 0, 
+        "runtime": 112, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "", 
+        "title": "Step Up All In", 
+        "vote_average": 7.7, 
+        "vote_count": 71
+    }, 
+    {
+        "budget": 25000000, 
+        "genres": [
+            "Crime", 
+            "Drama"
+        ], 
+        "image": "278.jpg", 
+        "overview": "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.", 
+        "pk": 278, 
+        "release_date": "1994-09-14", 
+        "revenue": 28341469, 
+        "runtime": 142, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Fear can hold you prisoner. Hope can set you free.", 
+        "title": "The Shawshank Redemption", 
+        "vote_average": 8.1, 
+        "vote_count": 3437
+    }, 
+    {
+        "budget": 23000000, 
+        "genres": [
+            "Drama", 
+            "Science Fiction", 
+            "Romance"
+        ], 
+        "image": "152601.jpg", 
+        "overview": "In the not so distant future, Theodore, a lonely writer purchases a newly developed operating system designed to meet the user's every needs. To Theordore's surprise, a romantic relationship develops between him and his operating system. This unconventional love story blends science fiction and romance in a sweet tale that explores the nature of love and the ways that technology isolates and connects us all.", 
+        "pk": 152601, 
+        "release_date": "2013-12-18", 
+        "revenue": 47351251, 
+        "runtime": 126, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "A Spike Jonze Love Story", 
+        "title": "Her", 
+        "vote_average": 8.0, 
+        "vote_count": 642
+    }, 
+    {
+        "budget": 7000000, 
+        "genres": [
+            "Suspense"
+        ], 
+        "image": "220471.jpg", 
+        "overview": "Five young Amish girls accused of being Satan's children must fight for their lives when their devout community elders insist they be \"cleansed\" before turning 18.", 
+        "pk": 220471, 
+        "release_date": "2014-10-10", 
+        "revenue": 0, 
+        "runtime": 86, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Forgive me father for I am sin", 
+        "title": "The Devil's Hand", 
+        "vote_average": 0.0, 
+        "vote_count": 0
+    }, 
+    {
+        "budget": 6000000, 
+        "genres": [
+            "Comedy", 
+            "Drama"
+        ], 
+        "image": "231576.jpg", 
+        "overview": "Aidan Bloom, a struggling actor, father and husband, is 35 years old and still trying to find a purpose for his life. He and his wife are barely getting by financially and Aidan passes his time by fantasizing about being the great futuristic Space-Knight he'd always dreamed he'd be as a little kid. When his ailing father can no longer afford to pay for private school for his two kids and the only available public school is on its last legs, Aidan reluctantly agrees to attempt to home-school them. Through teaching them about life his way, Aidan gradually discovers some of the parts of himself he couldn't find.", 
+        "pk": 231576, 
+        "release_date": "2014-01-18", 
+        "revenue": 0, 
+        "runtime": 120, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Life is an occasion. Rise to it.", 
+        "title": "Wish I Was Here", 
+        "vote_average": 7.7, 
+        "vote_count": 32
+    }, 
+    {
+        "budget": 6000000, 
+        "genres": [
+            "Crime", 
+            "Drama"
+        ], 
+        "image": "238.jpg", 
+        "overview": "The story spans the years from 1945 to 1955 and chronicles the fictional Italian-American Corleone crime family. When organized crime family patriarch Vito Corleone barely survives an attempt on his life, his youngest son, Michael, steps in to take care of the would-be killers, launching a campaign of bloody revenge.", 
+        "pk": 238, 
+        "release_date": "1972-03-15", 
+        "revenue": 245066411, 
+        "runtime": 175, 
+        "spoken_languages": [
+            "English", 
+            "Italiano", 
+            "Latin"
+        ], 
+        "tagline": "An offer you can't refuse.", 
+        "title": "The Godfather", 
+        "vote_average": 8.0, 
+        "vote_count": 2151
+    }, 
+    {
+        "budget": 100, 
+        "genres": [
+            "Action", 
+            "Drama", 
+            "Fantasy", 
+            "Horror", 
+            "War"
+        ], 
+        "image": "49017.jpg", 
+        "overview": "Vlad Tepes is a great hero, but when he learns the Sultan is preparing for battle and needs to form an army of 1,000 boys, including Vlad's son, he vows to find a way to protect his family. Vlad turns to dark forces in order to get the power to destroy his enemies and agrees to go from hero to monster as he's turned into the mythological vampire Dracula.", 
+        "pk": 49017, 
+        "release_date": "2014-10-03", 
+        "revenue": 0, 
+        "runtime": 92, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Every bloodline has beginning", 
+        "title": "Dracula Untold", 
+        "vote_average": 7.1, 
+        "vote_count": 141
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Comedy", 
+            "Western"
+        ], 
+        "image": "188161.jpg", 
+        "overview": "As a cowardly farmer begins to fall for the mysterious new woman in town, he must put his new-found courage to the test when her husband, a notorious gun-slinger, announces his arrival.", 
+        "pk": 188161, 
+        "release_date": "2014-05-30", 
+        "revenue": 0, 
+        "runtime": 116, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Bring protection.", 
+        "title": "A Million Ways to Die in the West", 
+        "vote_average": 6.1, 
+        "vote_count": 310
+    }, 
+    {
+        "budget": 150000000, 
+        "genres": [
+            "Adventure", 
+            "Animation", 
+            "Musical", 
+            "Family"
+        ], 
+        "image": "109445.jpg", 
+        "overview": "Young princess Anna of Arendelle dreams about finding true love at her sister Elsa\u2019s coronation. Fate takes her on a dangerous journey in an attempt to end the eternal winter that has fallen over the kingdom. She's accompanied by ice delivery man Kristoff, his reindeer Sven, and snowman Olaf. On an adventure where she will find out what friendship, courage, family, and true love really means.", 
+        "pk": 109445, 
+        "release_date": "2013-11-19", 
+        "revenue": 712680546, 
+        "runtime": 102, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "From the creators of 'Tangled' and 'Wreck-it Ralph'", 
+        "title": "Frozen", 
+        "vote_average": 7.7, 
+        "vote_count": 1131
+    }, 
+    {
+        "budget": 160000000, 
+        "genres": [
+            "Action", 
+            "Science Fiction", 
+            "Thriller"
+        ], 
+        "image": "124905.jpg", 
+        "overview": "Fifteen years after an 'incident' at a Japanese nuclear power plant, physicist Joe Brody joins forces with his soldier son Ford to discover for themselves what really happened.  What they uncover is prelude to global-threatening devastation.  An epic rebirth to Toho's iconic Godzilla, this spectacular adventure pits the world's most famous monster against malevolent creatures who, bolstered by humanity's scientific arrogance, threaten our very existence.", 
+        "pk": 124905, 
+        "release_date": "2014-05-16", 
+        "revenue": 524976069, 
+        "runtime": 123, 
+        "spoken_languages": [
+            "", 
+            "English"
+        ], 
+        "tagline": "A king's arrival is never silent.", 
+        "title": "Godzilla", 
+        "vote_average": 6.4, 
+        "vote_count": 779
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Adventure", 
+            "Animation", 
+            "Comedy", 
+            "Family"
+        ], 
+        "image": "218836.jpg", 
+        "overview": "When world-famous air racer Dusty learns that his engine is damaged and he may never race again, he must shift gears and is launched into the world of aerial firefighting. Dusty joins forces with veteran fire and rescue helicopter Blade Ranger and his team, a bunch of all-terrain vehicles known as The Smokejumpers. Together, the fearless team battles a massive wildfire, and Dusty learns what it takes to become a true hero.", 
+        "pk": 218836, 
+        "release_date": "2014-07-18", 
+        "revenue": 0, 
+        "runtime": 83, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "When others fly out, heroes fly in.", 
+        "title": "Planes: Fire & Rescue", 
+        "vote_average": 6.3, 
+        "vote_count": 46
+    }, 
+    {
+        "budget": 340000, 
+        "genres": [
+            "Drama"
+        ], 
+        "image": "389.jpg", 
+        "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.", 
+        "pk": 389, 
+        "release_date": "1957-04-10", 
+        "revenue": 0, 
+        "runtime": 96, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Life is in their hands. Death is on their minds.", 
+        "title": "12 Angry Men", 
+        "vote_average": 8.1, 
+        "vote_count": 544
+    }, 
+    {
+        "budget": 125000000, 
+        "genres": [
+            "Action", 
+            "Drama", 
+            "History", 
+            "War"
+        ], 
+        "image": "191903.jpg", 
+        "overview": "This is the story of \"E\" Easy Company, 506th Regiment of the 101st Airborne Division from their initial training, starting in 1942, to the end of World War II. They parachuted behind enemy lines in the early hours of D-Day in support of the landings at Utah beach, participated in the liberation of Carentan and again parachuted into action during Operation Market Garden. They also liberated a concentration camp and were the first to enter Hitler's mountain retreat in Berchtesgarten. A fascinating tale of comradeship that is, in the end, a tale of ordinary men who did extraordinary things", 
+        "pk": 191903, 
+        "release_date": "2001-09-07", 
+        "revenue": 0, 
+        "runtime": 705, 
+        "spoken_languages": [
+            "English", 
+            "Deutsch", 
+            "Nederlands", 
+            "Fran\u00e7ais", 
+            "Lietuvi\u009akai"
+        ], 
+        "tagline": "", 
+        "title": "Band of Brothers", 
+        "vote_average": 8.0, 
+        "vote_count": 390
+    }, 
+    {
+        "budget": 60000000, 
+        "genres": [
+            "Action", 
+            "Adventure", 
+            "Animation", 
+            "Comedy", 
+            "Fantasy", 
+            "Family"
+        ], 
+        "image": "137106.jpg", 
+        "overview": "An ordinary Lego mini-figure, mistakenly thought to be the extraordinary MasterBuilder, is recruited to join a quest to stop an evil Lego tyrant from gluing the universe together.", 
+        "pk": 137106, 
+        "release_date": "2014-02-07", 
+        "revenue": 373141707, 
+        "runtime": 100, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Assembling in 2014", 
+        "title": "The Lego Movie", 
+        "vote_average": 7.8, 
+        "vote_count": 765
+    }, 
+    {
+        "budget": 500000, 
+        "genres": [
+            "Action", 
+            "Drama"
+        ], 
+        "image": "346.jpg", 
+        "overview": "A veteran samurai, who has fallen on hard times, answers a village's request for protection from bandits. He gathers 6 other samurai to help him, and they teach the townspeople how to defend themselves, and they supply the samurai with three small meals a day. The film culminates in a giant battle when 40 bandits attack the village.", 
+        "pk": 346, 
+        "release_date": "1954-04-26", 
+        "revenue": 269061, 
+        "runtime": 207, 
+        "spoken_languages": [
+            "\u65e5\u672c\u8a9e"
+        ], 
+        "tagline": "Will Take Its Place With the Seven Greatest Films of All Time!", 
+        "title": "Seven Samurai", 
+        "vote_average": 8.1, 
+        "vote_count": 202
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Action", 
+            "Crime", 
+            "Drama", 
+            "Thriller"
+        ], 
+        "image": "832.jpg", 
+        "overview": "A psychotic child murderer stalks a city. Despite an exhaustive investigation fueled by public hysteria and outcry, the police have been unable to find him. The police crackdown makes it nearly impossible for the organized criminal underground to operate. The criminals decide that the only way to get the police off their backs is to catch the murderer themselves.", 
+        "pk": 832, 
+        "release_date": "1931-05-11", 
+        "revenue": 0, 
+        "runtime": 117, 
+        "spoken_languages": [
+            "Deutsch"
+        ], 
+        "tagline": "", 
+        "title": "M", 
+        "vote_average": 8.2, 
+        "vote_count": 71
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Drama"
+        ], 
+        "image": "169813.jpg", 
+        "overview": "A 20-something supervising staff member of a residential treatment facility navigates the troubled waters of that world alongside her co-worker and longtime boyfriend.", 
+        "pk": 169813, 
+        "release_date": "2013-08-23", 
+        "revenue": 0, 
+        "runtime": 96, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "", 
+        "title": "Short Term 12", 
+        "vote_average": 8.3, 
+        "vote_count": 65
+    }, 
+    {
+        "budget": 50000000, 
+        "genres": [
+            "Action", 
+            "Comedy", 
+            "Crime"
+        ], 
+        "image": "187017.jpg", 
+        "overview": "After making their way through high school (twice), big changes are in store for officers Schmidt and Jenko when they go deep undercover at a local college. But when Jenko meets a kindred spirit on the football team, and Schmidt infiltrates the bohemian art major scene, they begin to question their partnership. Now they don't have to just crack the case - they have to figure out if they can have a mature relationship. If these two overgrown adolescents can grow from freshmen into real men, college might be the best thing that ever happened to them.", 
+        "pk": 187017, 
+        "release_date": "2014-06-13", 
+        "revenue": 188441614, 
+        "runtime": 112, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "They're not 21 anymore", 
+        "title": "22 Jump Street", 
+        "vote_average": 7.6, 
+        "vote_count": 477
+    }, 
+    {
+        "budget": 18000000, 
+        "genres": [
+            "Adventure", 
+            "Fantasy", 
+            "Science Fiction", 
+            "Foreign"
+        ], 
+        "image": "902.jpg", 
+        "overview": "A scientist in a surrealist society kidnaps children to steal their dreams, hoping that they slow his aging process.", 
+        "pk": 902, 
+        "release_date": "1995-05-16", 
+        "revenue": 1738611, 
+        "runtime": 108, 
+        "spoken_languages": [
+            "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71", 
+            "Fran\u00e7ais"
+        ], 
+        "tagline": "Where happily ever after is just a dream.", 
+        "title": "The City of Lost Children", 
+        "vote_average": 8.0, 
+        "vote_count": 84
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Comedy", 
+            "Drama", 
+            "Romance"
+        ], 
+        "image": "253235.jpg", 
+        "overview": "A self-centered realtor enlists the help of his neighbor when he's suddenly left in charge of the granddaughter he never knew existed until his estranged son drops her off at his home.", 
+        "pk": 253235, 
+        "release_date": "2014-07-18", 
+        "revenue": 0, 
+        "runtime": 94, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "", 
+        "title": "And So It Goes", 
+        "vote_average": 5.4, 
+        "vote_count": 9
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Crime", 
+            "Drama", 
+            "Mystery"
+        ], 
+        "image": "548.jpg", 
+        "overview": "In ancient Japan a crime take place as told from three different travelers who have experienced the crime: a man being killed and his wife being raped. Which if any of the stories is true? A Akira Kurosawa film about morals, truth, and communication.", 
+        "pk": 548, 
+        "release_date": "1950-12-26", 
+        "revenue": 96568, 
+        "runtime": 88, 
+        "spoken_languages": [
+            "\u65e5\u672c\u8a9e"
+        ], 
+        "tagline": "The husband, the wife...or the bandit?", 
+        "title": "Rashomon", 
+        "vote_average": 8.0, 
+        "vote_count": 121
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Action", 
+            "Drama", 
+            "Thriller"
+        ], 
+        "image": "11878.jpg", 
+        "overview": "The incomparable Toshiro Mifune stars in Akira Kurosawa\u2019s visually stunning and darkly comic Yojimbo. To rid a terror-stricken village of corruption, wily masterless samurai Sanjuro turns a range war between two evil clans to his own advantage. Remade twice, by Sergio Leone and Walter Hill, this exhilarating genre-twister remains one of the most influential and entertaining films of all time.", 
+        "pk": 11878, 
+        "release_date": "1961-04-25", 
+        "revenue": 0, 
+        "runtime": 110, 
+        "spoken_languages": [
+            "\u65e5\u672c\u8a9e"
+        ], 
+        "tagline": "", 
+        "title": "Yojimbo", 
+        "vote_average": 8.0, 
+        "vote_count": 84
+    }, 
+    {
+        "budget": 1752000, 
+        "genres": [
+            "Drama", 
+            "Romance", 
+            "Film Noir"
+        ], 
+        "image": "599.jpg", 
+        "overview": "A hack screenwriter writes a screenplay for a former silent-film star who has faded into Hollywood obscurity.", 
+        "pk": 599, 
+        "release_date": "1950-08-04", 
+        "revenue": 0, 
+        "runtime": 110, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "A Hollywood Story", 
+        "title": "Sunset Boulevard", 
+        "vote_average": 8.0, 
+        "vote_count": 52
+    }, 
+    {
+        "budget": 30, 
+        "genres": [
+            "Crime", 
+            "Horror", 
+            "Thriller"
+        ], 
+        "image": "184346.jpg", 
+        "overview": "New York police officer Ralph Sarchie investigates a series of crimes. He joins forces with an unconventional priest, schooled in the rites of exorcism, to combat the possessions that are terrorizing their city.", 
+        "pk": 184346, 
+        "release_date": "2014-07-02", 
+        "revenue": 0, 
+        "runtime": 118, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Inspired by the actual accounts of an NYPD sergeant.", 
+        "title": "Deliver Us from Evil", 
+        "vote_average": 6.0, 
+        "vote_count": 114
+    }, 
+    {
+        "budget": 3750000, 
+        "genres": [
+            "Western"
+        ], 
+        "image": "3114.jpg", 
+        "overview": "As a Civil War veteran spends years searching for a young niece captured by Indians, his motivation becomes increasingly questionable.", 
+        "pk": 3114, 
+        "release_date": "1956-03-13", 
+        "revenue": 0, 
+        "runtime": 119, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "He had to find her... he had to find her...", 
+        "title": "The Searchers", 
+        "vote_average": 8.1, 
+        "vote_count": 53
+    }, 
+    {
+        "budget": 3000000, 
+        "genres": [
+            "Drama"
+        ], 
+        "image": "406.jpg", 
+        "overview": "Abdel, a local hoodlum, is hospitalized after a riot, where a policeman lost his gun. His friend Vinz finds it and claims he will kill a cop if Abdel dies.", 
+        "pk": 406, 
+        "release_date": "1995-05-31", 
+        "revenue": 0, 
+        "runtime": 98, 
+        "spoken_languages": [
+            "Fran\u00e7ais"
+        ], 
+        "tagline": "Three Young Friends... One Last Chance.", 
+        "title": "La Haine", 
+        "vote_average": 8.1, 
+        "vote_count": 75
+    }, 
+    {
+        "budget": 170000000, 
+        "genres": [
+            "Action", 
+            "Adventure", 
+            "Science Fiction"
+        ], 
+        "image": "100402.jpg", 
+        "overview": "After the cataclysmic events in New York with The Avengers, Steve Rogers, aka Captain America is living quietly in Washington, D.C. and trying to adjust to the modern world. But when a S.H.I.E.L.D. colleague comes under attack, Steve becomes embroiled in a web of intrigue that threatens to put the world at risk. Joining forces with the Black Widow, Captain America struggles to expose the ever-widening conspiracy while fighting off professional assassins sent to silence him at every turn. When the full scope of the villainous plot is revealed, Captain America and the Black Widow enlist the help of a new ally, the Falcon. However, they soon find themselves up against an unexpected and formidable enemy\u2014the Winter Soldier.", 
+        "pk": 100402, 
+        "release_date": "2014-04-04", 
+        "revenue": 712575222, 
+        "runtime": 128, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "In heroes we trust.", 
+        "title": "Captain America: The Winter Soldier", 
+        "vote_average": 7.8, 
+        "vote_count": 1158
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Action", 
+            "Adventure", 
+            "Science Fiction"
+        ], 
+        "image": "273881.jpg", 
+        "overview": "This new Space Sheriff project is a V-Cinema project that takes place after the events of Space Sheriff Gavan the Movie. Space Sheriff Shaider: THE NEXT GENERATION will be released on November 7th. It's expected that Hiroaki Iwanaga will reprise his role as Shu Karasuma/Shaider for the film.", 
+        "pk": 273881, 
+        "release_date": "2014-11-07", 
+        "revenue": 0, 
+        "runtime": 0, 
+        "spoken_languages": [
+            "\u65e5\u672c\u8a9e"
+        ], 
+        "tagline": "", 
+        "title": "Space Sheriff Shaider: THE NEXT GENERATION", 
+        "vote_average": 0.0, 
+        "vote_count": 0
+    }, 
+    {
+        "budget": 80000000, 
+        "genres": [
+            "Comedy"
+        ], 
+        "image": "45243.jpg", 
+        "overview": "The Hangover crew heads to Thailand for Stu's wedding. After the disaster of a bachelor party in Las Vegas last year, Stu is playing it safe with a mellow pre-wedding brunch. However, nothing goes as planned and Bangkok is the perfect setting for another adventure with the rowdy group.", 
+        "pk": 45243, 
+        "release_date": "2011-05-25", 
+        "revenue": 254455986, 
+        "runtime": 102, 
+        "spoken_languages": [
+            "English", 
+            "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+        ], 
+        "tagline": "The wolfpack is back.", 
+        "title": "The Hangover Part II", 
+        "vote_average": 5.9, 
+        "vote_count": 1605
+    }, 
+    {
+        "budget": 34000000, 
+        "genres": [
+            "Action", 
+            "Mystery", 
+            "Science Fiction", 
+            "Thriller"
+        ], 
+        "image": "198663.jpg", 
+        "overview": "Set in a post-apocalyptic world, young Thomas is deposited in a community of boys after his memory is erased, soon learning they're all trapped in a maze that will require him to join forces with fellow \"runners\" for a shot at escape.", 
+        "pk": 198663, 
+        "release_date": "2014-09-19", 
+        "revenue": 166914185, 
+        "runtime": 113, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "", 
+        "title": "The Maze Runner", 
+        "vote_average": 7.6, 
+        "vote_count": 277
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Crime", 
+            "Drama", 
+            "Thriller"
+        ], 
+        "image": "242582.jpg", 
+        "overview": "A driven young man (Gyllenhaal) stumbles upon the underground world of L.A. freelance crime journalism.", 
+        "pk": 242582, 
+        "release_date": "2014-10-31", 
+        "revenue": 0, 
+        "runtime": 117, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "The City Shines Brightest at Night", 
+        "title": "Nightcrawler", 
+        "vote_average": 7.7, 
+        "vote_count": 36
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Animation", 
+            "Family"
+        ], 
+        "image": "172385.jpg", 
+        "overview": "It's a jungle out there for Blu, Jewel and their three kids after they're hurtled from Rio de Janeiro to the wilds of the Amazon. As Blu tries to fit in, he goes beak-to-beak with the vengeful Nigel, and meets the most fearsome adversary of all: his father-in-law.", 
+        "pk": 172385, 
+        "release_date": "2014-04-11", 
+        "revenue": 29100000, 
+        "runtime": 102, 
+        "spoken_languages": [
+            "English", 
+            "Portugu\u00eas"
+        ], 
+        "tagline": "He's villainous, she's venomous.", 
+        "title": "Rio 2", 
+        "vote_average": 6.9, 
+        "vote_count": 241
+    }, 
+    {
+        "budget": 42000000, 
+        "genres": [
+            "Action", 
+            "Comedy", 
+            "Crime"
+        ], 
+        "image": "64688.jpg", 
+        "overview": "In high school, Schmidt was a dork and Jenko was the popular jock. After graduation, both of them joined the police force and ended up as partners riding bicycles in the city park. Since they are young and look like high school students, they are assigned to an undercover unit to infiltrate a drug ring that is supplying high school students synthetic drugs.", 
+        "pk": 64688, 
+        "release_date": "2012-03-12", 
+        "revenue": 53957072, 
+        "runtime": 109, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "They thought the streets were mean. Then they went back to high school.", 
+        "title": "21 Jump Street", 
+        "vote_average": 6.3, 
+        "vote_count": 1628
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Horror", 
+            "Science Fiction"
+        ], 
+        "image": "265016.jpg", 
+        "overview": "Five friends set out to a cabin in the woods for a fun weekend getaway\u2014that is, until extraterrestrial visitors turn it into a fight for their lives. The group is pulled from their reverie when a flickering object crashes deep in the woods. As they investigate, the friends stumble across an alien spacecraft, and its inhabitants have not arrived in peace.", 
+        "pk": 265016, 
+        "release_date": "2014-10-17", 
+        "revenue": 0, 
+        "runtime": 101, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "They do not come in peace.", 
+        "title": "Extraterrestrial", 
+        "vote_average": 5.9, 
+        "vote_count": 10
+    }, 
+    {
+        "budget": 100, 
+        "genres": [
+            "Action", 
+            "Crime", 
+            "Thriller"
+        ], 
+        "image": "151368.jpg", 
+        "overview": "Jill, the most exciting actress of the moment, refuses to have dinner with Nick, a fan who won a date with her in an Internet contest organized by the distributor of her latest film. In return, a guy named Chord, posing as Jill's campaign manager, help Nick to follow in the footsteps of the actress from his own computer. Nick starts a game in which he realizes that is only a puppet into the manic plans devised by Chord, to hunt down the star.", 
+        "pk": 151368, 
+        "release_date": "2014-03-10", 
+        "revenue": 0, 
+        "runtime": 101, 
+        "spoken_languages": [
+            "Espa\u00f1ol", 
+            "English"
+        ], 
+        "tagline": "", 
+        "title": "Open Windows", 
+        "vote_average": 6.9, 
+        "vote_count": 12
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Comedy"
+        ], 
+        "image": "100042.jpg", 
+        "overview": "20 years after the dimwits set out on their first adventure, they head out in search of one of their long lost children in the hope of gaining a new kidney.", 
+        "pk": 100042, 
+        "release_date": "2014-11-14", 
+        "revenue": 0, 
+        "runtime": 0, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "", 
+        "title": "Dumb and Dumber To", 
+        "vote_average": 8.3, 
+        "vote_count": 8
+    }, 
+    {
+        "budget": 250000000, 
+        "genres": [
+            "Adventure", 
+            "Fantasy"
+        ], 
+        "image": "57158.jpg", 
+        "overview": "The Dwarves, Bilbo and Gandalf have successfully escaped the Misty Mountains, and Bilbo has gained the One Ring. They all continue their journey to get their gold back from the Dragon, Smaug.", 
+        "pk": 57158, 
+        "release_date": "2013-12-13", 
+        "revenue": 958400000, 
+        "runtime": 161, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Beyond darkness... beyond desolation... lies the greatest danger of all.", 
+        "title": "The Hobbit: The Desolation of Smaug", 
+        "vote_average": 7.8, 
+        "vote_count": 1059
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            ""
+        ], 
+        "image": "298343.jpg", 
+        "overview": "", 
+        "pk": 298343, 
+        "release_date": "2014-11-06", 
+        "revenue": 0, 
+        "runtime": 0, 
+        "spoken_languages": [
+            "Portuguese"
+        ], 
+        "tagline": "", 
+        "title": "Mao na Luva", 
+        "vote_average": 0.0, 
+        "vote_count": 0
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Horror", 
+            "Thriller"
+        ], 
+        "image": "287084.jpg", 
+        "overview": "65 years after a masked serial killer terrorized the small town of Texarkana, the so-called 'moonlight murders' begin again. Is it a copycat or something even more sinister? A lonely high school girl, with dark secrets of her own, may be the key to catching him.", 
+        "pk": 287084, 
+        "release_date": "2014-10-16", 
+        "revenue": 0, 
+        "runtime": 87, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "", 
+        "title": "The Town that Dreaded Sundown", 
+        "vote_average": 6.1, 
+        "vote_count": 6
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Drama"
+        ], 
+        "image": "266856.jpg", 
+        "overview": "A look at the relationship between the famous physicist Stephen Hawking and his wife.", 
+        "pk": 266856, 
+        "release_date": "2014-11-07", 
+        "revenue": 0, 
+        "runtime": 123, 
+        "spoken_languages": [
+            "Fran\u00e7ais", 
+            "English"
+        ], 
+        "tagline": "", 
+        "title": "The Theory of Everything", 
+        "vote_average": 10.0, 
+        "vote_count": 2
+    }, 
+    {
+        "budget": 2000000, 
+        "genres": [
+            "Crime", 
+            "Drama", 
+            "Mystery", 
+            "Romance"
+        ], 
+        "image": "25376.jpg", 
+        "overview": "A retired legal counselor writes a novel hoping to find closure for one of his past unresolved homicide cases and for his unreciprocated love with his superior - both of which still haunt him decades later.", 
+        "pk": 25376, 
+        "release_date": "2009-08-13", 
+        "revenue": 33965843, 
+        "runtime": 129, 
+        "spoken_languages": [
+            "Espa\u00f1ol"
+        ], 
+        "tagline": "", 
+        "title": "The Secret in Their Eyes", 
+        "vote_average": 8.0, 
+        "vote_count": 122
+    }, 
+    {
+        "budget": 12000000, 
+        "genres": [
+            "Action", 
+            "Comedy", 
+            "Crime"
+        ], 
+        "image": "256092.jpg", 
+        "overview": "A former race car driver is abducted by a mysterious thief and forced to be the wheel-man for a crime that puts them both in the sights of the cops and the mob.", 
+        "pk": 256092, 
+        "release_date": "2014-05-26", 
+        "revenue": 0, 
+        "runtime": 96, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "One Hell of A Ride", 
+        "title": "Drive Hard", 
+        "vote_average": 4.1, 
+        "vote_count": 14
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Horror"
+        ], 
+        "image": "124470.jpg", 
+        "overview": "A group of friends who venture into the remote Texas woods for a party weekend find themselves stalked by Bigfoot.", 
+        "pk": 124470, 
+        "release_date": "2014-03-17", 
+        "revenue": 0, 
+        "runtime": 86, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "", 
+        "title": "Exists", 
+        "vote_average": 5.3, 
+        "vote_count": 2
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Adventure", 
+            "Animation", 
+            "Fantasy", 
+            "Family"
+        ], 
+        "image": "202575.jpg", 
+        "overview": "Thunder, an abandoned young cat seeking shelter from a storm, stumbles into the strangest house imaginable, owned by an old magician and inhabited by a dazzling array of automatons and gizmos. Not everyone welcomes the new addition to the troupe as Jack Rabbit and Maggie Mouse plot to evict Thunder. The situation gets worse when the magician lands in hospital and his scheming nephew sees his chance to cash in by selling the mansion. Our young hero is determined to earn his place and so he enlists the help of some wacky magician's assistants to protect his magical new home.", 
+        "pk": 202575, 
+        "release_date": "2013-12-25", 
+        "revenue": 0, 
+        "runtime": 85, 
+        "spoken_languages": [
+            "Deutsch", 
+            "Fran\u00e7ais", 
+            "English"
+        ], 
+        "tagline": "", 
+        "title": "The House of Magic", 
+        "vote_average": 7.0, 
+        "vote_count": 13
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            ""
+        ], 
+        "image": "286256.jpg", 
+        "overview": "Biopic of Brazilian singer Tim Maia, from his childhood in Rio de Janeiro until his death at age 55, including his passage by the US, where he discovers a new style of music and is arrested for theft and drug possession.", 
+        "pk": 286256, 
+        "release_date": "2014-10-30", 
+        "revenue": 0, 
+        "runtime": 0, 
+        "spoken_languages": [
+            "Portugu\u00eas"
+        ], 
+        "tagline": "", 
+        "title": "Tim Maia", 
+        "vote_average": 0.0, 
+        "vote_count": 0
+    }, 
+    {
+        "budget": 38000000, 
+        "genres": [
+            "Action", 
+            "Drama", 
+            "Sport"
+        ], 
+        "image": "96721.jpg", 
+        "overview": "A biography of Formula 1 champion driver Niki Lauda and the 1976 crash that almost claimed his life. Mere weeks after the accident, he got behind the wheel to challenge his rival, James Hunt.", 
+        "pk": 96721, 
+        "release_date": "2013-09-27", 
+        "revenue": 0, 
+        "runtime": 123, 
+        "spoken_languages": [
+            "English", 
+            "Deutsch", 
+            "Italiano", 
+            "Fran\u00e7ais"
+        ], 
+        "tagline": "Everyone's driven by something.", 
+        "title": "Rush", 
+        "vote_average": 8.0, 
+        "vote_count": 505
+    }, 
+    {
+        "budget": 200000000, 
+        "genres": [
+            "Action", 
+            "Adventure", 
+            "Fantasy"
+        ], 
+        "image": "102382.jpg", 
+        "overview": "For Peter Parker, life is busy. Between taking out the bad guys as Spider-Man and spending time with the person he loves, Gwen Stacy, high school graduation cannot come quickly enough. Peter has not forgotten about the promise he made to Gwen\u2019s father to protect her by staying away, but that is a promise he cannot keep. Things will change for Peter when a new villain, Electro, emerges, an old friend, Harry Osborn, returns, and Peter uncovers new clues about his past.", 
+        "pk": 102382, 
+        "release_date": "2014-05-02", 
+        "revenue": 705717432, 
+        "runtime": 142, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "No more secrets.", 
+        "title": "The Amazing Spider-Man 2", 
+        "vote_average": 6.9, 
+        "vote_count": 941
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Drama"
+        ], 
+        "image": "205587.jpg", 
+        "overview": "A successful lawyer returns to his hometown for his mother's funeral only to discover that his estranged father, the town's judge, is suspected of murder.", 
+        "pk": 205587, 
+        "release_date": "2014-10-10", 
+        "revenue": 0, 
+        "runtime": 141, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Defend your Honor.", 
+        "title": "The Judge", 
+        "vote_average": 7.3, 
+        "vote_count": 54
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Action", 
+            "Thriller"
+        ], 
+        "image": "294736.jpg", 
+        "overview": "WKBA kickboxing champion and hard-action star Gary Daniels (The Expendables) takes to the screen in a border-crossing, barrier smashing all-action explosion that pits his will to live against the merciless murder machine of a Mexican drug cartel.  Hardened DEA agent Cole finds himself sucked into the deadly underworld of Tijuanna in search of his ex-wife, a journalist who may have gone too far in search of a story. She\u2019s been abducted by a charismatic Cartel boss who publicly aspires to public office while privately slaughtering anyone who gets in his way. Now, in a place where two cultures clash and life is cheaper than bullets, Cole is about to discover the cost of shooting to kill when you Misfire.", 
+        "pk": 294736, 
+        "release_date": "2014-10-21", 
+        "revenue": 0, 
+        "runtime": 85, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "When action is the only answer.", 
+        "title": "Misfire", 
+        "vote_average": 4.0, 
+        "vote_count": 1
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Thriller"
+        ], 
+        "image": "207933.jpg", 
+        "overview": "A recent medical school grad who takes a position at a mental institution soon finds himself taken with one of his colleagues -- though he has no initial idea of a recent, horrifying staffing change.", 
+        "pk": 207933, 
+        "release_date": "2014-10-24", 
+        "revenue": 0, 
+        "runtime": 112, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "No one is what they seem.", 
+        "title": "Stonehearst Asylum", 
+        "vote_average": 7.5, 
+        "vote_count": 10
+    }, 
+    {
+        "budget": 103000000, 
+        "genres": [
+            "Comedy"
+        ], 
+        "image": "109439.jpg", 
+        "overview": "This time, there's no wedding. No bachelor party. What could go wrong, right? But when the Wolfpack hits the road, all bets are off.", 
+        "pk": 109439, 
+        "release_date": "2013-05-23", 
+        "revenue": 0, 
+        "runtime": 100, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "It all ends.", 
+        "title": "The Hangover Part III", 
+        "vote_average": 6.0, 
+        "vote_count": 1142
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Action", 
+            "Adventure", 
+            "Science Fiction"
+        ], 
+        "image": "272158.jpg", 
+        "overview": "The Zawame Stadium is flooded with voices. The battle between K\u014dta Kazuraba\u2019s Team Gaim and Kaito Kumon\u2019s Team Baron was about to begin, however, it is not an Inves Games battle. It is a soccer match. The \u201cAll Rider Cup\u201d is about to reach its climax.", 
+        "pk": 272158, 
+        "release_date": "2014-06-19", 
+        "revenue": 0, 
+        "runtime": 0, 
+        "spoken_languages": [
+            "\u65e5\u672c\u8a9e"
+        ], 
+        "tagline": "", 
+        "title": "Kamen Rider Gaim the Movie: The Great Soccer Match! The Golden Fruit Cup!", 
+        "vote_average": 4.0, 
+        "vote_count": 1
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Drama", 
+            "Fantasy", 
+            "Science Fiction"
+        ], 
+        "image": "157834.jpg", 
+        "overview": "A computer hacker's goal to discover the reason for human existence continually finds his work interrupted thanks to the Management; this time, they send a teenager and lusty love interest to distract him.", 
+        "pk": 157834, 
+        "release_date": "2013-09-02", 
+        "revenue": 0, 
+        "runtime": 107, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Nothing is Everything", 
+        "title": "The Zero Theorem", 
+        "vote_average": 6.0, 
+        "vote_count": 64
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Action", 
+            "Crime", 
+            "Thriller"
+        ], 
+        "image": "180299.jpg", 
+        "overview": "After fighting his way through an apartment building populated by an army of dangerous criminals and escaping with his life, SWAT team member Rama goes undercover, joining a powerful Indonesian crime syndicate to protect his family and uncover corrupt members of his own force.", 
+        "pk": 180299, 
+        "release_date": "2014-03-28", 
+        "revenue": 0, 
+        "runtime": 150, 
+        "spoken_languages": [
+            "\u0627\u0644\u0639\u0631\u0628\u064a\u0629", 
+            "Bahasa indonesia", 
+            "\u65e5\u672c\u8a9e", 
+            "English"
+        ], 
+        "tagline": "It's Not Over Yet", 
+        "title": "The Raid 2", 
+        "vote_average": 8.0, 
+        "vote_count": 166
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Comedy"
+        ], 
+        "image": "10152.jpg", 
+        "overview": "This wacky prequel to the 1994 blockbuster goes back to the lame-brained Harry and Lloyd's days as classmates at a Rhode Island high school, where the unprincipled principal puts the pair in remedial courses as part of a scheme to fleece the school.", 
+        "pk": 10152, 
+        "release_date": "2003-06-13", 
+        "revenue": 0, 
+        "runtime": 85, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "The evolution of dumb...", 
+        "title": "Dumb and Dumberer: When Harry Met Lloyd", 
+        "vote_average": 5.6, 
+        "vote_count": 19
+    }, 
+    {
+        "budget": 15000000, 
+        "genres": [
+            "Adventure", 
+            "Animation", 
+            "Fantasy", 
+            "Family"
+        ], 
+        "image": "129.jpg", 
+        "overview": "Spirited Away is an Oscar winning Japanese animated film about a ten year old girl who wanders away from her parents along a path that leads to a world ruled by strange and unusual monster-like animals. Her parents have been changed into pigs along with others inside a bathhouse full of these creatures. Will she ever see the world how it once was?", 
+        "pk": 129, 
+        "release_date": "2001-07-20", 
+        "revenue": 274925095, 
+        "runtime": 125, 
+        "spoken_languages": [
+            "\u65e5\u672c\u8a9e"
+        ], 
+        "tagline": "The tunnel led Chihiro to a mysterious town...", 
+        "title": "Spirited Away", 
+        "vote_average": 7.9, 
+        "vote_count": 992
+    }, 
+    {
+        "budget": 55000000, 
+        "genres": [
+            "Action", 
+            "Crime", 
+            "Thriller"
+        ], 
+        "image": "156022.jpg", 
+        "overview": "In The Equalizer, Denzel Washington plays McCall, a former black ops commando who has faked his death to live a quiet life in Boston.  When he comes out of his self-imposed retirement to rescue a young girl, Teri (Chlo\u00eb Grace Moretz), he finds himself face to face with ultra-violent Russian gangsters. As he serves vengeance against those who brutalize the helpless, McCall\u2019s desire for justice is reawakened. If someone has a problem, the odds are stacked against them, and they have nowhere else to turn, McCall will help.  He is The Equalizer.", 
+        "pk": 156022, 
+        "release_date": "2014-09-26", 
+        "revenue": 68887000, 
+        "runtime": 132, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "What do you see when you look at me?", 
+        "title": "The Equalizer", 
+        "vote_average": 7.6, 
+        "vote_count": 160
+    }, 
+    {
+        "budget": 165000000, 
+        "genres": [
+            "Adventure", 
+            "Animation", 
+            "Comedy"
+        ], 
+        "image": "82690.jpg", 
+        "overview": "Wreck-It Ralph is the 9-foot-tall, 643-pound villain of an arcade video game named Fix-It Felix Jr., in which the game's titular hero fixes buildings that Ralph destroys. Wanting to prove he can be a good guy and not just a villain, Ralph escapes his game and lands in Hero's Duty, a first-person shooter where he helps the game's hero battle against alien invaders. He later enters Sugar Rush, a kart racing game set on tracks made of candies, cookies and other sweets. There, Ralph meets Vanellope von Schweetz who has learned that her game is faced with a dire threat that could affect the entire arcade, and one that Ralph may have inadvertently started.", 
+        "pk": 82690, 
+        "release_date": "2012-11-01", 
+        "revenue": 471222889, 
+        "runtime": 108, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "The story of a regular guy just looking for a little wreck-ognition.", 
+        "title": "Wreck-It Ralph", 
+        "vote_average": 6.8, 
+        "vote_count": 2387
+    }, 
+    {
+        "budget": 85000000, 
+        "genres": [
+            "Action", 
+            "Science Fiction"
+        ], 
+        "image": "157350.jpg", 
+        "overview": "DIVERGENT is a thrilling action-adventure film set in a world where people are divided into distinct factions based on human virtues. Tris Prior is warned she is Divergent and will never fit into any one group. When she discovers a conspiracy by a faction leader to destroy all Divergents, Tris must learn to trust in the mysterious Four and together they must find out what makes being Divergent so dangerous before it's too late. Based on the best-selling book series by Veronica Roth.", 
+        "pk": 157350, 
+        "release_date": "2014-03-21", 
+        "revenue": 274945239, 
+        "runtime": 143, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "What makes you different makes you dangerous.", 
+        "title": "Divergent", 
+        "vote_average": 6.9, 
+        "vote_count": 709
+    }, 
+    {
+        "budget": 78000000, 
+        "genres": [
+            "Animation", 
+            "Comedy", 
+            "Family"
+        ], 
+        "image": "109451.jpg", 
+        "overview": "After the disastrous food storm in the first film, Flint and his friends are forced to leave the town. Flint accepts the invitation from his idol Chester V to join The Live Corp Company, which has been tasked to clean the island, and where the best inventors in the world create technologies for the betterment of mankind. When Flint discovers that his machine still operates and now creates mutant food beasts like living pickles, hungry tacodiles, shrimpanzees and apple pie-thons, he and his friends must return to save the world.", 
+        "pk": 109451, 
+        "release_date": "2013-09-27", 
+        "revenue": 248384621, 
+        "runtime": 95, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Something big was leftover.", 
+        "title": "Cloudy with a Chance of Meatballs 2", 
+        "vote_average": 6.8, 
+        "vote_count": 236
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Action", 
+            "Crime", 
+            "Thriller"
+        ], 
+        "image": "262338.jpg", 
+        "overview": "Tom and Anna Reed, a young American couple, fall into severe debt while renovating Anna's family home in London. As the couple faces the loss of their dream to have a house and start a family, they discover that the tenant in the apartment below them is dead, and he's left behind a stash of cash\u2014$400,000 worth. Though initially hesitant, Tom and Anna decide that the plan is simple: all they have to do is quietly take the money and use only what's necessary to get them out of debt. But when they start spending the money and can't seem to stop, they find themselves the target of a deadly adversary\u2014the thief who stole it\u2014and that's when very bad things start happening to good people.", 
+        "pk": 262338, 
+        "release_date": "2014-07-25", 
+        "revenue": 0, 
+        "runtime": 90, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Money changes everything", 
+        "title": "Good People", 
+        "vote_average": 6.2, 
+        "vote_count": 17
+    }, 
+    {
+        "budget": 220000000, 
+        "genres": [
+            "Action", 
+            "Adventure", 
+            "Science Fiction"
+        ], 
+        "image": "24428.jpg", 
+        "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!", 
+        "pk": 24428, 
+        "release_date": "2012-05-04", 
+        "revenue": 1511757910, 
+        "runtime": 143, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Some assembly required.", 
+        "title": "The Avengers", 
+        "vote_average": 7.1, 
+        "vote_count": 6240
+    }, 
+    {
+        "budget": 145000000, 
+        "genres": [
+            "Animation"
+        ], 
+        "image": "80321.jpg", 
+        "overview": "Alex, Marty, Gloria and Melman are still trying to get back to the Big Apple and their beloved Central Park zoo, but first they need to find the penguins. When they travel to Monte Carlo, they attract the attention of Animal Control after gate crashing a party and are joined by the penguins, King Julian and Co., and the monkeys. How do a lion, zebra, hippo, giraffe, four penguins, two monkeys, three lemurs travel through Europe without attracting attention and get back to New York? They join a traveling circus. Their attempts to get back to New York are consistently hampered by the Captain of Animal Control who wants to make Alex part of her collection. Once they make it back to New York Marty, Alex, Gloria and Melman realize that they want to be part of the traveling circus.", 
+        "pk": 80321, 
+        "release_date": "2012-06-08", 
+        "revenue": 742000000, 
+        "runtime": 93, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Six years ago, they disappeared without a trace. Next summer, they finally resurface.", 
+        "title": "Madagascar 3: Europe's Most Wanted", 
+        "vote_average": 6.4, 
+        "vote_count": 807
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Drama"
+        ], 
+        "image": "70706.jpg", 
+        "overview": "Two New York City girls pact to lost their virginity during their first summer out of high school. When they both fall for the same street artist, the friends find their connection tested for the first time.", 
+        "pk": 70706, 
+        "release_date": "2013-01-22", 
+        "revenue": 0, 
+        "runtime": 120, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "", 
+        "title": "Very Good Girls", 
+        "vote_average": 6.7, 
+        "vote_count": 12
+    }, 
+    {
+        "budget": 12000000, 
+        "genres": [
+            "Comedy", 
+            "Crime"
+        ], 
+        "image": "209189.jpg", 
+        "overview": "Two common criminals get more than they bargained for after kidnapping the wife of a corrupt real-estate developer who shows no interest in paying the $1 million dollar ransom for her safe return.", 
+        "pk": 209189, 
+        "release_date": "2014-08-29", 
+        "revenue": 0, 
+        "runtime": 94, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Right target. Wrong woman.", 
+        "title": "Life of Crime", 
+        "vote_average": 5.7, 
+        "vote_count": 12
+    }, 
+    {
+        "budget": 5000000, 
+        "genres": [
+            "Comedy", 
+            "Drama"
+        ], 
+        "image": "211954.jpg", 
+        "overview": "Valentin is Acapulco's resident playboy, until a former fling leaves a baby on his doorstep and him heading with her out of Mexico.", 
+        "pk": 211954, 
+        "release_date": "2013-08-30", 
+        "revenue": 0, 
+        "runtime": 115, 
+        "spoken_languages": [
+            "Espa\u00f1ol", 
+            "English"
+        ], 
+        "tagline": "Life doesn't care if you're ready.", 
+        "title": "Instructions Not Included", 
+        "vote_average": 7.9, 
+        "vote_count": 54
+    }, 
+    {
+        "budget": 26500000, 
+        "genres": [
+            "Adventure", 
+            "Animation", 
+            "Fantasy"
+        ], 
+        "image": "128.jpg", 
+        "overview": "Ashitaka, a prince of the disappearing Ainu tribe, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.", 
+        "pk": 128, 
+        "release_date": "1997-07-12", 
+        "revenue": 159375308, 
+        "runtime": 134, 
+        "spoken_languages": [
+            "\u65e5\u672c\u8a9e"
+        ], 
+        "tagline": "The Fate Of The World Rests On The Courage Of One Warrior.", 
+        "title": "Princess Mononoke", 
+        "vote_average": 7.9, 
+        "vote_count": 498
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Comedy", 
+            "Horror"
+        ], 
+        "image": "184345.jpg", 
+        "overview": "Crossing new lines and breaking old barriers, A Haunted House 2 is the sequel to the hilarious box-office hit starring Marlon Wayans as Malcolm who, after exorcising the demons of his ex, is starting fresh with his new girlfriend and her two children. After moving into their dream home, Malcolm is once again plagued by bizarre paranormal events. With spine-tingling tension and hilarious punch-lines A Haunted House 2 is inspired by the latest supernatural horror movie franchises and shows that this time\u2026 it\u2019s not just the house that\u2019s haunted!", 
+        "pk": 184345, 
+        "release_date": "2014-04-18", 
+        "revenue": 0, 
+        "runtime": 87, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "", 
+        "title": "A Haunted House 2", 
+        "vote_average": 5.6, 
+        "vote_count": 58
+    }, 
+    {
+        "budget": 55000000, 
+        "genres": [
+            "Action", 
+            "Drama", 
+            "Thriller"
+        ], 
+        "image": "109424.jpg", 
+        "overview": "The true story of Captain Richard Phillips and the 2009 hijacking by Somali pirates of the US-flagged MV Maersk Alabama, the first American cargo ship to be hijacked in two hundred years.", 
+        "pk": 109424, 
+        "release_date": "2013-10-11", 
+        "revenue": 95000000, 
+        "runtime": 134, 
+        "spoken_languages": [
+            "English", 
+            "Somali"
+        ], 
+        "tagline": "Out here survival is everything.", 
+        "title": "Captain Phillips", 
+        "vote_average": 7.9, 
+        "vote_count": 675
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Action", 
+            "Crime", 
+            "Drama", 
+            "Thriller"
+        ], 
+        "image": "290336.jpg", 
+        "overview": "In the mean streets of London's East End, a former Serbian commando and a fourteen-year old boy plot revenge against a powerful crime lord and his ruthless lieutenants. As our heroes prepare to take on their enemies, the boy is mentored in the dark arts of assassination and learns the true meaning of friendship, honor and respect.", 
+        "pk": 290336, 
+        "release_date": "2014-12-15", 
+        "revenue": 0, 
+        "runtime": 108, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Raised in the streets, trained by an assassin.", 
+        "title": "Montana", 
+        "vote_average": 6.0, 
+        "vote_count": 1
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Drama"
+        ], 
+        "image": "249164.jpg", 
+        "overview": "Based on Gayle Forman's novel of the same name. \"If I Stay\" is the story of the gifted classical musician Mia and her boyfriend, Adam, an up and coming indie-rock star. Torn between two paths in life, her art or her relationship, Mia is forced to make an even starker choice between life and death when she is caught in a fatal car accident with her family one snowy morning in Oregon.", 
+        "pk": 249164, 
+        "release_date": "2014-08-22", 
+        "revenue": 0, 
+        "runtime": 106, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "", 
+        "title": "If I Stay", 
+        "vote_average": 7.9, 
+        "vote_count": 67
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Action", 
+            "Animation", 
+            "Crime", 
+            "Thriller"
+        ], 
+        "image": "242643.jpg", 
+        "overview": "Based on the hit video game series, Batman must find a bomb planted by the Joker while dealing with a mysterious team of villains called, The Suicide Squad.", 
+        "pk": 242643, 
+        "release_date": "2014-08-12", 
+        "revenue": 0, 
+        "runtime": 75, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Get ready to root for the bad guys.", 
+        "title": "Batman: Assault on Arkham", 
+        "vote_average": 7.9, 
+        "vote_count": 40
+    }, 
+    {
+        "budget": 160000000, 
+        "genres": [
+            "Action", 
+            "Crime", 
+            "Thriller"
+        ], 
+        "image": "82992.jpg", 
+        "overview": "Since Dom (Diesel) and Brian's (Walker) Rio heist toppled a kingpin's empire and left their crew with $100 million, our heroes have scattered across the globe. But their inability to return home and living forever on the lam have left their lives incomplete. Meanwhile, Hobbs (Johnson) has been tracking an organization of lethally skilled mercenary drivers across 12 countries, whose mastermind (Evans) is aided by a ruthless second-in-command revealed to be the love Dom thought was dead, Letty (Rodriguez). The only way to stop the criminal outfit is to outmatch them at street level, so Hobbs asks Dom to assemble his elite team in London. Payment? Full pardons for all of them so they can return home and make their families whole again.", 
+        "pk": 82992, 
+        "release_date": "2013-05-22", 
+        "revenue": 788679850, 
+        "runtime": 130, 
+        "spoken_languages": [
+            "English", 
+            "P\u0443\u0441\u0441\u043a\u0438\u0439", 
+            "Espa\u00f1ol"
+        ], 
+        "tagline": "All roads lead to this", 
+        "title": "Fast & Furious 6", 
+        "vote_average": 6.5, 
+        "vote_count": 3377
+    }, 
+    {
+        "budget": 80000000, 
+        "genres": [
+            "Adventure", 
+            "Animation", 
+            "Family"
+        ], 
+        "image": "77951.jpg", 
+        "overview": "Walking with Dinosaurs 3D is an upcoming film depicting life-like 3D dinosaur characters set in photo-real landscapes that will transport audiences to the prehistoric world as it existed 70 million years ago. The film is based on the 1999 documentary television miniseries Walking with Dinosaurs, produced by the BBC. Walking with Dinosaurs 3D is being produced by Evergreen Studios, the company that produced Happy Feet, and it is scheduled for release on October 11, 2013.", 
+        "pk": 77951, 
+        "release_date": "2013-12-20", 
+        "revenue": 126546518, 
+        "runtime": 87, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "The Greatest Adventure in 70 Million Years", 
+        "title": "Walking With Dinosaurs", 
+        "vote_average": 5.9, 
+        "vote_count": 32
+    }, 
+    {
+        "budget": 20000000, 
+        "genres": [
+            "Adventure", 
+            "Animation", 
+            "Family"
+        ], 
+        "image": "172391.jpg", 
+        "overview": "A half-striped zebra is blamed for the drought and leaves his herd in search of his missing stripes. He is joined on his quest by an overprotective wildebeest and a flamboyant ostrich; they defeat the tyrannical leopard and save his herd.", 
+        "pk": 172391, 
+        "release_date": "2013-10-25", 
+        "revenue": 0, 
+        "runtime": 85, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Half a zebra, a whole lot of adventure!", 
+        "title": "Khumba", 
+        "vote_average": 6.5, 
+        "vote_count": 11
+    }, 
+    {
+        "budget": 250000000, 
+        "genres": [
+            "Action", 
+            "Crime", 
+            "Drama", 
+            "Thriller"
+        ], 
+        "image": "49026.jpg", 
+        "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.", 
+        "pk": 49026, 
+        "release_date": "2012-07-20", 
+        "revenue": 1081041287, 
+        "runtime": 165, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "The Legend Ends", 
+        "title": "The Dark Knight Rises", 
+        "vote_average": 7.3, 
+        "vote_count": 4446
+    }, 
+    {
+        "budget": 4000000, 
+        "genres": [
+            "Action", 
+            "Crime", 
+            "Drama", 
+            "Mystery", 
+            "Thriller"
+        ], 
+        "image": "241765.jpg", 
+        "overview": "Revolves around a British military contractor Lex Walker who is told his daughter has died. When he arrives in Los Angeles and discovers the body is not hers, he begins an investigation.", 
+        "pk": 241765, 
+        "release_date": "2014-02-07", 
+        "revenue": 0, 
+        "runtime": 94, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Outgunned. Outnumbered. Out for blood.", 
+        "title": "The Outsider", 
+        "vote_average": 5.7, 
+        "vote_count": 9
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Animation", 
+            "Comedy", 
+            "Family"
+        ], 
+        "image": "175574.jpg", 
+        "overview": "In this irreverent, hilarious, adventurous buddy comedy for audiences of all ages, directed by Jimmy Hayward (Horton Hears a Who!), two turkeys from opposite sides of the tracks must put aside their differences and team up to travel back in time to change the course of history - and get turkey off the holiday menu for good.", 
+        "pk": 175574, 
+        "release_date": "2013-11-01", 
+        "revenue": 0, 
+        "runtime": 91, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Hang On To Your Nuggets", 
+        "title": "Free Birds", 
+        "vote_average": 6.0, 
+        "vote_count": 67
+    }, 
+    {
+        "budget": 5500000, 
+        "genres": [
+            "Drama", 
+            "History"
+        ], 
+        "image": "152532.jpg", 
+        "overview": "Loosely based on the true-life tale of Ron Woodroof, a drug-taking, women-loving, homophobic man who in 1986 was diagnosed with full blown HIV/AIDS and given thirty days to live.", 
+        "pk": 152532, 
+        "release_date": "2013-11-22", 
+        "revenue": 0, 
+        "runtime": 117, 
+        "spoken_languages": [
+            "English", 
+            "\u65e5\u672c\u8a9e"
+        ], 
+        "tagline": "Sometimes it takes a hustler to change the world", 
+        "title": "Dallas Buyers Club", 
+        "vote_average": 7.9, 
+        "vote_count": 430
+    }, 
+    {
+        "budget": 130000000, 
+        "genres": [
+            "Action", 
+            "Adventure", 
+            "Science Fiction", 
+            "Thriller"
+        ], 
+        "image": "101299.jpg", 
+        "overview": "Katniss Everdeen has returned home safe after winning the 74th Annual Hunger Games along with fellow tribute Peeta Mellark. Winning means that they must turn around and leave their family and close friends, embarking on a \"Victor's Tour\" of the districts. Along the way Katniss senses that a rebellion is simmering, but the Capitol is still very much in control as President Snow prepares the 75th Annual Hunger Games (The Quarter Quell) - a competition that could change Panem forever.", 
+        "pk": 101299, 
+        "release_date": "2013-11-22", 
+        "revenue": 847423452, 
+        "runtime": 146, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Every revolution begins with a spark.", 
+        "title": "The Hunger Games: Catching Fire", 
+        "vote_average": 7.7, 
+        "vote_count": 1257
+    }, 
+    {
+        "budget": 93000000, 
+        "genres": [
+            "Adventure"
+        ], 
+        "image": "61791.jpg", 
+        "overview": "Scientist Will Rodman is determined to find a cure for Alzheimer's, the disease which has slowly consumed his father Charles. Will feels certain he is close to a breakthrough and tests his latest serum on apes, noticing dramatic increases in intelligence and brain activity in the primate subjects... Especially Caesar, his pet chimpanzee.", 
+        "pk": 61791, 
+        "release_date": "2011-08-04", 
+        "revenue": 482860185, 
+        "runtime": 105, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Evolution Becomes Revolution.", 
+        "title": "Rise of the Planet of the Apes", 
+        "vote_average": 6.6, 
+        "vote_count": 1358
+    }, 
+    {
+        "budget": 105000000, 
+        "genres": [
+            "Drama", 
+            "Science Fiction", 
+            "Thriller"
+        ], 
+        "image": "49047.jpg", 
+        "overview": "Dr. Ryan Stone (Sandra Bullock), a brilliant medical engineer on her first Shuttle mission, with veteran astronaut Matt Kowalsky (George Clooney) in command of his last flight before retiring. But on a seemingly routine spacewalk, disaster strikes. The Shuttle is destroyed, leaving Stone and Kowalsky completely alone-tethered to nothing but each other and spiraling out into the blackness of space. The deafening silence tells them they have lost any link to Earth and any chance for rescue. As fear turns to panic, every gulp of air eats away at what little oxygen is left. But the only way home may be to go further out into the terrifying expance of space\u2026", 
+        "pk": 49047, 
+        "release_date": "2013-10-04", 
+        "revenue": 716392705, 
+        "runtime": 91, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Don't Let Go", 
+        "title": "Gravity", 
+        "vote_average": 7.8, 
+        "vote_count": 1377
+    }, 
+    {
+        "budget": 185000000, 
+        "genres": [
+            "Action", 
+            "Crime", 
+            "Drama", 
+            "Thriller"
+        ], 
+        "image": "155.jpg", 
+        "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.", 
+        "pk": 155, 
+        "release_date": "2008-07-18", 
+        "revenue": 1001921825, 
+        "runtime": 152, 
+        "spoken_languages": [
+            "English", 
+            "\u4e2d\u56fd"
+        ], 
+        "tagline": "Why So Serious?", 
+        "title": "The Dark Knight", 
+        "vote_average": 7.8, 
+        "vote_count": 5059
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Horror"
+        ], 
+        "image": "254191.jpg", 
+        "overview": "Young newlyweds Paul (Harry Treadaway) and Bea (Rose Leslie) travel to remote lake country for their honeymoon, where the promise of private romance awaits them. Shortly after arriving, Paul finds Bea wandering and disoriented in the middle of the night. As she becomes more distant and her behavior increasingly peculiar, Paul begins to suspect something more sinister than sleepwalking took place in the woods.", 
+        "pk": 254191, 
+        "release_date": "2014-03-07", 
+        "revenue": 0, 
+        "runtime": 87, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "After the ceremony comes the ritual.", 
+        "title": "Honeymoon", 
+        "vote_average": 6.4, 
+        "vote_count": 19
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Adventure", 
+            "Fantasy", 
+            "Mystery", 
+            "Short"
+        ], 
+        "image": "242334.jpg", 
+        "overview": "Automata is the eerie, black-humoured story of Henry, the last in a long line of duck hunters. The film examines the connection between hunter and prey and obsession in the face of extinction. It posits the question 'what would happen to someone at the tipping point; the moment where they are directly responsible for the extinction of an entire species'  Duck hunting in Australia is a very contentious issue and every year hunters and protesters clash.  The experimental side is evidenced with the lack of dialog, non-linear narrative and a 'score' by Belgian sound designer Christina Clar. The majority of the sound tracking and design was completed before the edit in Australia, thus reversing the usual process. The sound post production was completed in Brussels and includes recordings from deep within remote caves.", 
+        "pk": 242334, 
+        "release_date": "2011-09-17", 
+        "revenue": 0, 
+        "runtime": 12, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "", 
+        "title": "Automata", 
+        "vote_average": 0.0, 
+        "vote_count": 0
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Comedy"
+        ], 
+        "image": "286532.jpg", 
+        "overview": "Boyd Mitchler and his family must spend Christmas with his estranged family of misfits. Upon realizing that he left all his son's gifts at home, he hits the road with his dad in an attempt to make the 8-hour round trip before sunrise.", 
+        "pk": 286532, 
+        "release_date": "2014-11-07", 
+        "revenue": 0, 
+        "runtime": 88, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Spend it with the ones you loathe", 
+        "title": "A Merry Friggin' Christmas", 
+        "vote_average": 5.5, 
+        "vote_count": 1
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Animation", 
+            "Family"
+        ], 
+        "image": "255718.jpg", 
+        "overview": "Barbie plays Lumina, a mermaid girl with the power to change the color of pearls. Cheerful and creative, Lumina finds herself working in a mermaid salon customizing fabulous hairstyles. And when Lumina has the chance to attend the royal ball, her friends adorn her with a gown fit for a princess. At the ball, villains try to seize power over the kingdom, and Lumina finds within herself an unexpected power that proves she is much more than a hair stylist.", 
+        "pk": 255718, 
+        "release_date": "2014-02-01", 
+        "revenue": 0, 
+        "runtime": 73, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "", 
+        "title": "Barbie: The Pearl Princess", 
+        "vote_average": 8.3, 
+        "vote_count": 4
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Animation"
+        ], 
+        "image": "290727.jpg", 
+        "overview": "While attempting to help Frankie Stein learn more about her freakycool scaritage, the fashionably fierce ghoulfriends travel back in time to the first day ever of Monster High! There, they meet Sparky, a skullastic teen with an obsession for creating life. But when Sparky follows the ghouls through a killer time portal to modern-day Monster High, the event results in eight of them fusing together into four creeperiffic hybrid Monsters. Now, they'll really have to work together to control their bodies in the big Bitecentennial Play and stop one of Sparky's experiments from destroying imperfectly perfect Monster High!", 
+        "pk": 290727, 
+        "release_date": "2014-10-06", 
+        "revenue": 0, 
+        "runtime": 0, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "", 
+        "title": "Monster High: Freaky Fusion", 
+        "vote_average": 4.0, 
+        "vote_count": 1
+    }, 
+    {
+        "budget": 150000000, 
+        "genres": [
+            "Action", 
+            "Adventure", 
+            "Science Fiction"
+        ], 
+        "image": "8373.jpg", 
+        "overview": "Sam Witwicky leaves the Autobots behind for a normal life. But when his mind is filled with cryptic symbols, the Decepticons target him and he is dragged back into the Transformers' war.", 
+        "pk": 8373, 
+        "release_date": "2009-06-23", 
+        "revenue": 836297228, 
+        "runtime": 150, 
+        "spoken_languages": [
+            "Espa\u00f1ol", 
+            "English"
+        ], 
+        "tagline": "Revenge is coming.", 
+        "title": "Transformers: Revenge of the Fallen", 
+        "vote_average": 6.2, 
+        "vote_count": 1242
+    }, 
+    {
+        "budget": 145000000, 
+        "genres": [
+            "Adventure", 
+            "Animation", 
+            "Family"
+        ], 
+        "image": "82703.jpg", 
+        "overview": "A young boy and his dog, who happens to have a genius-level IQ, spring into action when their time-travel machine is stolen and moments in history begin to be changed.", 
+        "pk": 82703, 
+        "release_date": "2014-02-07", 
+        "revenue": 111017445, 
+        "runtime": 92, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "He's Leaving His Mark On History", 
+        "title": "Mr. Peabody & Sherman", 
+        "vote_average": 7.2, 
+        "vote_count": 155
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Drama", 
+            "Music"
+        ], 
+        "image": "209451.jpg", 
+        "overview": "Jersey Boys is a musical biography of the Four Seasons-the rise, the tough times and personal clashes, and the ultimate triumph of a group of friends whose music became symbolic of a generation. Far from a mere tribute concert (though it does include numbers from the popular Four Seasons songbook), Jersey Boys gets to the heart of the relationships at the center of the group-with a special focus on frontman Frankie Valli, the small kid with the big falsetto. In addition to following the quartet's coming of age as performers, the core of the show is how an allegiance to a code of honor learned in the streets of their native New Jersey got them through a multitude of challenges: gambling debts, Mafia threats and family disasters. Jersey Boys is a glimpse at the people behind a sound that has managed to endure for over four decades in the hearts of the public.", 
+        "pk": 209451, 
+        "release_date": "2014-06-20", 
+        "revenue": 0, 
+        "runtime": 134, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "", 
+        "title": "Jersey Boys", 
+        "vote_average": 7.2, 
+        "vote_count": 27
+    }, 
+    {
+        "budget": 9000000, 
+        "genres": [
+            "Horror", 
+            "Thriller"
+        ], 
+        "image": "238636.jpg", 
+        "overview": "Sequel to The Purge. The New Founders of America invite you to celebrate your annual right to Purge. The Purge: Anarchy, the sequel to summer 2013's sleeper hit that opened to No. 1 at the box-office, sees the return of writer/director James DeMonaco to craft the next terrifying chapter of dutiful citizens preparing for their country's yearly 12 hours of anarchy.", 
+        "pk": 238636, 
+        "release_date": "2014-07-17", 
+        "revenue": 108782847, 
+        "runtime": 104, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "", 
+        "title": "The Purge: Anarchy", 
+        "vote_average": 6.9, 
+        "vote_count": 229
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Comedy", 
+            "Crime", 
+            "Drama"
+        ], 
+        "image": "227929.jpg", 
+        "overview": "Rio de Janeiro, in the period in which the Police Pacification Units (PPUs) were beginning to be deployed in the city. Edna (Lilia Cabral) is the mother of Julio (Pedro Nercessian) and Silvio (Fiuk). One day she wakes up desperate to see that Julio just disappeared!", 
+        "pk": 227929, 
+        "release_date": "2014-01-10", 
+        "revenue": 0, 
+        "runtime": 108, 
+        "spoken_languages": [
+            "Portugu\u00eas"
+        ], 
+        "tagline": "Comedy", 
+        "title": "Julio Gone", 
+        "vote_average": 3.5, 
+        "vote_count": 1
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Comedy"
+        ], 
+        "image": "295315.jpg", 
+        "overview": "Eddie lands his first teaching gig at an inner city middle school and finds his highly pubescent pupils are receiving no form of sexual education. Eddie isn't really equipped to teach them...he's not exactly experienced romantically.", 
+        "pk": 295315, 
+        "release_date": "2014-11-07", 
+        "revenue": 0, 
+        "runtime": 90, 
+        "spoken_languages": [
+            ""
+        ], 
+        "tagline": "Fake it 'til you make it", 
+        "title": "Sex Ed", 
+        "vote_average": 6.0, 
+        "vote_count": 3
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Action", 
+            "Thriller", 
+            "Foreign"
+        ], 
+        "image": "265851.jpg", 
+        "overview": "Abandoned by his mother shortly after immigrating to America, Gon is raised by the mafia and grows up to become a cold-blooded hitman. Though usually flawless in taking out his targets, Gon makes a terrible mistake of killing an innocent young girl. Swamped by feelings of regret, guilt and shame, Gon no longer wants to be a hitman, but his boss gives him one last mission. So Gon finds himself in Korea, the land of the mother that abandoned him, on the trail of his last target. But in bitter irony, that target is Mo-gyeong, the mother of the dead child.", 
+        "pk": 265851, 
+        "release_date": "2014-06-01", 
+        "revenue": 0, 
+        "runtime": 116, 
+        "spoken_languages": [
+            "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+        ], 
+        "tagline": "", 
+        "title": "No Tears for the Dead", 
+        "vote_average": 7.0, 
+        "vote_count": 4
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            ""
+        ], 
+        "image": "227926.jpg", 
+        "overview": "", 
+        "pk": 227926, 
+        "release_date": "2014-10-31", 
+        "revenue": 0, 
+        "runtime": 0, 
+        "spoken_languages": [
+            "Portugu\u00eas"
+        ], 
+        "tagline": "", 
+        "title": "Div\u00e3 2", 
+        "vote_average": 0.0, 
+        "vote_count": 0
+    }, 
+    {
+        "budget": 13000000, 
+        "genres": [
+            "Crime", 
+            "Drama"
+        ], 
+        "image": "240.jpg", 
+        "overview": "The continuing saga of the Corleone crime family tells the story of a young Vito Corleone growing up in Sicily and in 1910s New York; and follows Michael Corleone in the 1950s as he attempts to expand the family business into Las Vegas, Hollywood and Cuba", 
+        "pk": 240, 
+        "release_date": "1974-12-20", 
+        "revenue": 47542841, 
+        "runtime": 200, 
+        "spoken_languages": [
+            "English", 
+            "Italiano", 
+            "Latin", 
+            "Espa\u00f1ol"
+        ], 
+        "tagline": "I don't feel I have to wipe everybody out, Tom. Just my enemies.", 
+        "title": "The Godfather: Part II", 
+        "vote_average": 7.9, 
+        "vote_count": 1089
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Comedy"
+        ], 
+        "image": "143049.jpg", 
+        "overview": "Amy, a naive college graduate who believes she's destined to be a great poet, begrudgingly accepts a job at a sex shop while she pursues a mentorship with reclusive writer Rat Billings.", 
+        "pk": 143049, 
+        "release_date": "2014-02-14", 
+        "revenue": 0, 
+        "runtime": 107, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "When life gets hard, rise to the occasion.", 
+        "title": "Adult World", 
+        "vote_average": 5.9, 
+        "vote_count": 17
+    }, 
+    {
+        "budget": 13000000, 
+        "genres": [
+            "Comedy", 
+            "Drama"
+        ], 
+        "image": "77338.jpg", 
+        "overview": "A true story of two men who should never have met - a quadriplegic aristocrat who was injured in a paragliding accident and a young man from the projects.", 
+        "pk": 77338, 
+        "release_date": "2011-11-02", 
+        "revenue": 0, 
+        "runtime": 112, 
+        "spoken_languages": [
+            "Fran\u00e7ais"
+        ], 
+        "tagline": "Sometimes you have to reach into someone else's world to find out what's missing in your own.", 
+        "title": "Intouchables", 
+        "vote_average": 7.9, 
+        "vote_count": 1140
+    }, 
+    {
+        "budget": 30000000, 
+        "genres": [
+            "Drama", 
+            "Musical", 
+            "Romance"
+        ], 
+        "image": "41233.jpg", 
+        "overview": "A tight-knit group of New York City street dancers, including Luke and Natalie, team up with NYU freshman Moose, and find themselves pitted against the world's best hip hop dancers in a high-stakes showdown that will change their lives forever.", 
+        "pk": 41233, 
+        "release_date": "2010-08-06", 
+        "revenue": 0, 
+        "runtime": 107, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Two Worlds. One Dream.", 
+        "title": "Step Up 3D", 
+        "vote_average": 6.7, 
+        "vote_count": 107
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Action", 
+            "Animation", 
+            "Thriller"
+        ], 
+        "image": "76589.jpg", 
+        "overview": "An adaptation of Mark Waid's \"Tower of Babel\" story from the JLA comic. Vandal Savage steals confidential files Batman has compiled on the members of the Justice League, and learns all their weaknesses.", 
+        "pk": 76589, 
+        "release_date": "2012-02-28", 
+        "revenue": 0, 
+        "runtime": 77, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "The end of justice.", 
+        "title": "Justice League: Doom", 
+        "vote_average": 7.0, 
+        "vote_count": 41
+    }, 
+    {
+        "budget": 38000000, 
+        "genres": [
+            "Action", 
+            "Science Fiction", 
+            "Thriller"
+        ], 
+        "image": "87421.jpg", 
+        "overview": "Betrayed by his own kind and left for dead on a desolate planet, Riddick fights for survival against alien predators and becomes more powerful and dangerous than ever before. Soon bounty hunters from throughout the galaxy descend on Riddick only to find themselves pawns in his greater scheme for revenge. With his enemies right where he wants them, Riddick unleashes a vicious attack of vengeance before returning to his home planet of Furya to save it from destruction.", 
+        "pk": 87421, 
+        "release_date": "2013-09-06", 
+        "revenue": 98337295, 
+        "runtime": 119, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Survival Is His Revenge", 
+        "title": "Riddick", 
+        "vote_average": 6.2, 
+        "vote_count": 882
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Action", 
+            "Adventure", 
+            "Drama", 
+            "Thriller"
+        ], 
+        "image": "15071.jpg", 
+        "overview": "The film begins at the Montana ranch home of a former CIA Opperative - James Dial. One last time, he is coaxed back into action to kill a terrorist in London. It all goes wrong and he is forced into hiding where he meets and befriends a 12 year old girl.", 
+        "pk": 15071, 
+        "release_date": "2007-07-10", 
+        "revenue": 0, 
+        "runtime": 105, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "", 
+        "title": "The Contractor", 
+        "vote_average": 5.6, 
+        "vote_count": 8
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Comedy", 
+            "Drama"
+        ], 
+        "image": "243684.jpg", 
+        "overview": "Follows the story of a group of high school teenagers and their parents as they attempt to navigate the many ways the internet has changed their relationships, their communication, their self-image, and their love lives.", 
+        "pk": 243684, 
+        "release_date": "2014-10-17", 
+        "revenue": 0, 
+        "runtime": 116, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Discover how little you know about the people you know.", 
+        "title": "Men, Women & Children", 
+        "vote_average": 4.0, 
+        "vote_count": 2
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Drama", 
+            "Sport"
+        ], 
+        "image": "254436.jpg", 
+        "overview": "", 
+        "pk": 254436, 
+        "release_date": "2014-05-08", 
+        "revenue": 0, 
+        "runtime": 0, 
+        "spoken_languages": [
+            "Portugu\u00eas"
+        ], 
+        "tagline": "", 
+        "title": "A Grande Vit\u00f3ria", 
+        "vote_average": 0.0, 
+        "vote_count": 0
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Action", 
+            "Adventure", 
+            "Animation"
+        ], 
+        "image": "166076.jpg", 
+        "overview": "Based on the Geoff Johns/Gary Frank 2008 release \"Superman: Brainiac,\" Superman: Unbound finds the horrific force responsible for the destruction of Krypton (Brainiac) descending upon Earth. Brainiac has crossed the universe, collecting cities from interesting planets, Kandor included, and now the all-knowing, ever-evolving android has his sights fixed on Metropolis. Superman must summon all of his physical and intellectual resources to protect his city, the love of his life, and his newly-arrived cousin, Supergirl.", 
+        "pk": 166076, 
+        "release_date": "2013-05-06", 
+        "revenue": 0, 
+        "runtime": 75, 
+        "spoken_languages": [
+            "Fran\u00e7ais", 
+            "Espa\u00f1ol", 
+            "English"
+        ], 
+        "tagline": "The machine is coming", 
+        "title": "Superman: Unbound", 
+        "vote_average": 6.6, 
+        "vote_count": 33
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Animation", 
+            "Fantasy", 
+            "Family"
+        ], 
+        "image": "175112.jpg", 
+        "overview": "When a misunderstood dust-keeper fairy named Zarina steals Pixie Hollow's all-important Blue Pixie Dust and flies away to join forces with the pirates of Skull Rock, Tinker Bell and her fairy friends must embark on the adventure of a lifetime to return it to its rightful place.", 
+        "pk": 175112, 
+        "release_date": "2014-04-01", 
+        "revenue": 20300000, 
+        "runtime": 78, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "From The World of Peter Pan", 
+        "title": "The Pirate Fairy", 
+        "vote_average": 6.8, 
+        "vote_count": 54
+    }, 
+    {
+        "budget": 3500000, 
+        "genres": [
+            "Animation"
+        ], 
+        "image": "217993.jpg", 
+        "overview": "The world is under attack by an alien armada led by the powerful Apokoliptian, Darkseid. A group of superheroes consisting of Superman, Batman, Wonder Woman, The Flash, Green Lantern, Cyborg, and Shazam must set aside their differences and gather together to defend Earth.", 
+        "pk": 217993, 
+        "release_date": "2014-02-02", 
+        "revenue": 0, 
+        "runtime": 79, 
+        "spoken_languages": [
+            "Deutsch", 
+            "English"
+        ], 
+        "tagline": "A time when heroes became legends.", 
+        "title": "Justice League: War", 
+        "vote_average": 7.3, 
+        "vote_count": 50
+    }, 
+    {
+        "budget": 16000000, 
+        "genres": [
+            "Drama", 
+            "Western"
+        ], 
+        "image": "264656.jpg", 
+        "overview": "A claim jumper and a pioneer woman team up to escort three insane women from Nebraska to Iowa.", 
+        "pk": 264656, 
+        "release_date": "2014-08-29", 
+        "revenue": 0, 
+        "runtime": 122, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "", 
+        "title": "The Homesman", 
+        "vote_average": 6.7, 
+        "vote_count": 13
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Action", 
+            "Thriller"
+        ], 
+        "image": "288818.jpg", 
+        "overview": "A young criminal defense attorney struggles with a homicide case that is not as cut and dry as it appears while battling a drinking habit. The story goes beyond the lives of those directly related to the case and shines a much needed spotlight on the horrific world of human trafficking in the United States.", 
+        "pk": 288818, 
+        "release_date": "2014-10-14", 
+        "revenue": 0, 
+        "runtime": 0, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "How far would you go?", 
+        "title": "Throwdown", 
+        "vote_average": 4.0, 
+        "vote_count": 1
+    }, 
+    {
+        "budget": 1000000, 
+        "genres": [
+            "Action", 
+            "Adventure", 
+            "Animation", 
+            "Fantasy", 
+            "Science Fiction"
+        ], 
+        "image": "81.jpg", 
+        "overview": "Nausica\u00e4, a gentle young princess, has an empathetic bond with the giant mutated insects that evolved in the wake of the destruction of the ecosystem. Traveling by cumbersome flying ship, on the backs of giant birds, and perched atop her beloved glider, Nausica\u00e4 and her allies must negotiate peace between kingdoms battling over the last of the world's precious natural resources.", 
+        "pk": 81, 
+        "release_date": "1984-03-11", 
+        "revenue": 3301446, 
+        "runtime": 117, 
+        "spoken_languages": [
+            "\u65e5\u672c\u8a9e"
+        ], 
+        "tagline": "", 
+        "title": "Nausica\u00e4 of the Valley of the Wind", 
+        "vote_average": 7.8, 
+        "vote_count": 258
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Drama", 
+            "Thriller"
+        ], 
+        "image": "214093.jpg", 
+        "overview": "Marc, in his 40s, is a professor of literature at the University of Lausanne. Still a bachelor \u2014 and still living with his sister Marianne in a huge, isolated chalet that they inherited when they were very young \u2014 he carries on one love affair after another with his students. Winter has almost ended when one of his most brilliant students, Barbara, suddenly disappears. Two days later, Marc meets Barbara\u2019s mother, Anna, who wants to find out more about her vanished daughter.", 
+        "pk": 214093, 
+        "release_date": "2013-09-07", 
+        "revenue": 0, 
+        "runtime": 110, 
+        "spoken_languages": [
+            "Fran\u00e7ais"
+        ], 
+        "tagline": "", 
+        "title": "Love Is the Perfect Crime", 
+        "vote_average": 5.8, 
+        "vote_count": 4
+    }, 
+    {
+        "budget": 165000000, 
+        "genres": [
+            "Adventure", 
+            "Animation", 
+            "Fantasy", 
+            "Family"
+        ], 
+        "image": "10191.jpg", 
+        "overview": "As the son of a Viking leader on the cusp of manhood, shy Hiccup Horrendous Haddock III faces a rite of passage: he must kill a dragon to prove his warrior mettle. But after downing a feared dragon, he realizes that he no longer wants to destroy it, and instead befriends the beast \u2013 which he names Toothless \u2013 much to the chagrin of his warrior father", 
+        "pk": 10191, 
+        "release_date": "2010-03-10", 
+        "revenue": 494878759, 
+        "runtime": 98, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "One adventure will change two worlds", 
+        "title": "How to Train Your Dragon", 
+        "vote_average": 7.2, 
+        "vote_count": 1792
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Horror", 
+            "Thriller"
+        ], 
+        "image": "242224.jpg", 
+        "overview": "A single mother, plagued by the violent death of her husband, battles with her son's fear of a monster lurking in the house, but soon discovers a sinister presence all around her.", 
+        "pk": 242224, 
+        "release_date": "2014-11-28", 
+        "revenue": 0, 
+        "runtime": 93, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "If it's in a word, or it's in a look, you can't get rid of the Babadook.", 
+        "title": "The Babadook", 
+        "vote_average": 7.5, 
+        "vote_count": 23
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Drama", 
+            "Music", 
+            "Romance"
+        ], 
+        "image": "85446.jpg", 
+        "overview": "Emily arrives in Miami with aspirations to become a professional dancer. She sparks with Sean, the leader of a dance crew whose neighborhood is threatened by Emily's father's development plans.", 
+        "pk": 85446, 
+        "release_date": "2012-07-26", 
+        "revenue": 0, 
+        "runtime": 99, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "One Step Can Change Your World", 
+        "title": "Step Up Revolution", 
+        "vote_average": 6.3, 
+        "vote_count": 175
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Animation"
+        ], 
+        "image": "300180.jpg", 
+        "overview": "", 
+        "pk": 300180, 
+        "release_date": "2014-10-31", 
+        "revenue": 0, 
+        "runtime": 0, 
+        "spoken_languages": [
+            "Portugu\u00eas"
+        ], 
+        "tagline": "", 
+        "title": "Cocoric\u00f3 \u2013 A Melhor Escolha", 
+        "vote_average": 5.5, 
+        "vote_count": 1
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Comedy", 
+            "Drama", 
+            "Fantasy"
+        ], 
+        "image": "260953.jpg", 
+        "overview": "Two men and their horse travel through a vast and arid wilderness, each confronting sorrow, joy and their own demise.", 
+        "pk": 260953, 
+        "release_date": "2014-03-20", 
+        "revenue": 0, 
+        "runtime": 99, 
+        "spoken_languages": [
+            "Portugu\u00eas"
+        ], 
+        "tagline": "", 
+        "title": "Minutos Atr\u00e1s", 
+        "vote_average": 0.0, 
+        "vote_count": 0
+    }, 
+    {
+        "budget": 100000000, 
+        "genres": [
+            "Comedy", 
+            "Crime", 
+            "Drama"
+        ], 
+        "image": "106646.jpg", 
+        "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.", 
+        "pk": 106646, 
+        "release_date": "2013-12-25", 
+        "revenue": 392000694, 
+        "runtime": 180, 
+        "spoken_languages": [
+            "Fran\u00e7ais", 
+            "English"
+        ], 
+        "tagline": "EARN. SPEND. PARTY.", 
+        "title": "The Wolf of Wall Street", 
+        "vote_average": 8.0, 
+        "vote_count": 1114
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Animation"
+        ], 
+        "image": "300193.jpg", 
+        "overview": "", 
+        "pk": 300193, 
+        "release_date": "2014-10-31", 
+        "revenue": 0, 
+        "runtime": 0, 
+        "spoken_languages": [
+            "Portugu\u00eas"
+        ], 
+        "tagline": "", 
+        "title": "Cocoric\u00f3 \u2013 Muito Al\u00e9m da Vis\u00e3o", 
+        "vote_average": 8.0, 
+        "vote_count": 1
+    }, 
+    {
+        "budget": 3800000, 
+        "genres": [
+            "Drama"
+        ], 
+        "image": "103663.jpg", 
+        "overview": "A teacher lives a lonely life, all the while struggling over his son\u2019s custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.", 
+        "pk": 103663, 
+        "release_date": "2012-05-20", 
+        "revenue": 0, 
+        "runtime": 111, 
+        "spoken_languages": [
+            "Dansk", 
+            "Polski", 
+            "English"
+        ], 
+        "tagline": "The lie is spreading.", 
+        "title": "The Hunt", 
+        "vote_average": 7.9, 
+        "vote_count": 162
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Comedy", 
+            "Romance"
+        ], 
+        "image": "193610.jpg", 
+        "overview": "After discovering her boyfriend is married, Carly soon meets the wife he's been cheating on. And when yet another affair is discovered, all three women team up to plot mutual revenge on the three-timing SOB.", 
+        "pk": 193610, 
+        "release_date": "2014-04-25", 
+        "revenue": 0, 
+        "runtime": 109, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "The oddest friends are about to get even", 
+        "title": "The Other Woman", 
+        "vote_average": 6.3, 
+        "vote_count": 269
+    }, 
+    {
+        "budget": 45000000, 
+        "genres": [
+            "Animation", 
+            "Family"
+        ], 
+        "image": "8587.jpg", 
+        "overview": "A young lion cub named Simba can't wait to be king. But his uncle craves the title for himself and will stop at nothing to get it.", 
+        "pk": 8587, 
+        "release_date": "1994-06-23", 
+        "revenue": 788241776, 
+        "runtime": 89, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Life's greatest adventure is finding your place in the Circle of Life.", 
+        "title": "The Lion King", 
+        "vote_average": 7.4, 
+        "vote_count": 2186
+    }, 
+    {
+        "budget": 22000000, 
+        "genres": [
+            "Adventure", 
+            "Animation"
+        ], 
+        "image": "146381.jpg", 
+        "overview": "A heart-warming tale about friendship, honour &amp; courage, which sees a young boy become a man as he embarks on a quest to become a knight.", 
+        "pk": 146381, 
+        "release_date": "2013-09-13", 
+        "revenue": 0, 
+        "runtime": 90, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "", 
+        "title": "Justin and the Knights of Valour", 
+        "vote_average": 5.4, 
+        "vote_count": 21
+    }, 
+    {
+        "budget": 12000000, 
+        "genres": [
+            "Crime", 
+            "Drama"
+        ], 
+        "image": "5924.jpg", 
+        "overview": "A man befriends a fellow criminal as the two of them begin serving their sentence on a dreadful prison island, which inspires the man to plot his escape.", 
+        "pk": 5924, 
+        "release_date": "1973-12-16", 
+        "revenue": 53267000, 
+        "runtime": 151, 
+        "spoken_languages": [
+            "English", 
+            "Espa\u00f1ol"
+        ], 
+        "tagline": "Not just a Great Escape. It was the Greatest.", 
+        "title": "Papillon", 
+        "vote_average": 7.9, 
+        "vote_count": 56
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Comedy", 
+            "Drama"
+        ], 
+        "image": "637.jpg", 
+        "overview": "A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.", 
+        "pk": 637, 
+        "release_date": "1997-12-20", 
+        "revenue": 229400000, 
+        "runtime": 116, 
+        "spoken_languages": [
+            "English", 
+            "Italiano", 
+            "Deutsch"
+        ], 
+        "tagline": "An unforgettable fable that proves love, family and imagination conquer all.", 
+        "title": "Life Is Beautiful", 
+        "vote_average": 7.9, 
+        "vote_count": 733
+    }, 
+    {
+        "budget": 35000000, 
+        "genres": [
+            "Action", 
+            "Crime", 
+            "Drama", 
+            "Thriller"
+        ], 
+        "image": "144336.jpg", 
+        "overview": "In \"Sabotage\", Arnold Schwarzenegger leads an elite DEA task force that takes on the world's deadliest drug cartels. When the team successfully executes a high-stakes raid on a cartel safe house, they think their work is done - until, one-by-one, the team members mysteriously start to be eliminated. As the body count rises, everyone is a suspect.", 
+        "pk": 144336, 
+        "release_date": "2014-03-28", 
+        "revenue": 17500000, 
+        "runtime": 110, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Leave no loose ends", 
+        "title": "Sabotage", 
+        "vote_average": 6.0, 
+        "vote_count": 135
+    }, 
+    {
+        "budget": 195000000, 
+        "genres": [
+            "Action", 
+            "Adventure", 
+            "Science Fiction"
+        ], 
+        "image": "38356.jpg", 
+        "overview": "Sam Witwicky takes his first tenuous steps into adulthood while remaining a reluctant human ally of Autobot-leader Optimus Prime. The film centers around the space race between the USSR and the USA, suggesting there was a hidden Transformers role in it all that remains one of the planet's most dangerous secrets.", 
+        "pk": 38356, 
+        "release_date": "2011-06-28", 
+        "revenue": 1123746996, 
+        "runtime": 154, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "The invasion we always feared. An enemy we never expected.", 
+        "title": "Transformers: Dark of the Moon", 
+        "vote_average": 6.2, 
+        "vote_count": 1654
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Animation", 
+            "Family"
+        ], 
+        "image": "254263.jpg", 
+        "overview": "The Swan Princess: A Royal Family Tale is a 2014 American computer-animated family/fantasy film produced by Crest Animation Productions, distributed by Stage 6 Films and directed by Richard Rich. Yuri Lowenthal, James Arrington, Doug Stone and Joseph Medrano reprise their roles as Prince Derek, The Chamberlain, Speed and Lord Rogers. It is the latest and fifth film in The Swan Princess series.", 
+        "pk": 254263, 
+        "release_date": "2014-02-25", 
+        "revenue": 0, 
+        "runtime": 79, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "", 
+        "title": "The Swan Princess: A Royal Family Tale", 
+        "vote_average": 6.6, 
+        "vote_count": 7
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Drama", 
+            "Thriller"
+        ], 
+        "image": "215935.jpg", 
+        "overview": "Bethlehem tells the story of the unlikely bond between Razi, an Israeli secret service officer, and his Palestinian informant Sanfur, the younger brother of a senior Palestinian militant. Razi recruited Sanfur when he was just 15, and developed a very close, almost fatherly relationship to him. Now 17, Sanfur tries to navigate between Razi\u2019s demands and his loyalty to his brother, living a double life and lying to both men. Co-written by director Yuval Adler and Ali Waked\u2014an Arab journalist who spent years in the West Bank\u2014Bethlehem gives an unparalleled, moving and authentic portrait of the complex reality behind the news.", 
+        "pk": 215935, 
+        "release_date": "2014-03-07", 
+        "revenue": 0, 
+        "runtime": 99, 
+        "spoken_languages": [
+            "\u0627\u0644\u0639\u0631\u0628\u064a\u0629", 
+            "\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea"
+        ], 
+        "tagline": "When you are playing both sides, who do you trust?", 
+        "title": "Bethlehem", 
+        "vote_average": 6.0, 
+        "vote_count": 1
+    }, 
+    {
+        "budget": 110000000, 
+        "genres": [
+            "Action", 
+            "War"
+        ], 
+        "image": "53182.jpg", 
+        "overview": "Based on Frank Miller's latest graphic novel Xerxes and told in the breathtaking visual style of the blockbuster \"300,\" this new chapter of the epic saga takes the action to a fresh battlefield--on the sea--as Greek general Themistokles attempts to unite all of Greece by leading the charge that will change the course of the war. \"300: Rise of an Empire\" pits Themistokles against the massive invading Persian forces led by mortal-turned-god Xerxes and Artemesia, the vengeful commander of the Persian navy.", 
+        "pk": 53182, 
+        "release_date": "2014-03-07", 
+        "revenue": 331169117, 
+        "runtime": 102, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Seize your glory!", 
+        "title": "300: Rise of an Empire", 
+        "vote_average": 6.2, 
+        "vote_count": 646
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Comedy", 
+            "Mystery"
+        ], 
+        "image": "288711.jpg", 
+        "overview": "Teenagers try to clear a friend accused of murder.", 
+        "pk": 288711, 
+        "release_date": "1940-07-21", 
+        "revenue": 0, 
+        "runtime": 70, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "The exciting story of a boy who swept his town to fame!", 
+        "title": "Haunted House", 
+        "vote_average": 0.0, 
+        "vote_count": 0
+    }, 
+    {
+        "budget": 250000000, 
+        "genres": [
+            "Action", 
+            "Adventure", 
+            "Fantasy"
+        ], 
+        "image": "49051.jpg", 
+        "overview": "Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.", 
+        "pk": 49051, 
+        "release_date": "2012-12-14", 
+        "revenue": 1017003568, 
+        "runtime": 169, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "From the smallest beginnings come the greatest legends.", 
+        "title": "The Hobbit: An Unexpected Journey", 
+        "vote_average": 6.7, 
+        "vote_count": 4483
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Drama"
+        ], 
+        "image": "222649.jpg", 
+        "overview": "A journalist is detained in Iran for more than 100 days and brutally interrogated in prison.", 
+        "pk": 222649, 
+        "release_date": "2014-11-07", 
+        "revenue": 0, 
+        "runtime": 0, 
+        "spoken_languages": [
+            ""
+        ], 
+        "tagline": "", 
+        "title": "Rosewater", 
+        "vote_average": 0.0, 
+        "vote_count": 0
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Action", 
+            "Adventure", 
+            "Animation"
+        ], 
+        "image": "230896.jpg", 
+        "overview": "The Invincible Iron Man and the Incredible Hulk must join forces to save the Earth from its greatest threat yet! When two Hydra scientists try to supercharge a Stark Arc Reactor with Hulk's Gamma Energy, they unleash a being of pure electricity called Zzzax - and he's hungry for destruction. Together, Iron Man and Hulk are the only force that stands in the way of the Zzzax's planetary blackout. But first, the super heroic duo will have to get through snarling Wendigos, deadly robots and the scaly powerhouse, Abomination.  Can two of Marvel's mightiest heroes find a way to work together without smashing each other before time runs out?", 
+        "pk": 230896, 
+        "release_date": "2013-12-03", 
+        "revenue": 0, 
+        "runtime": 71, 
+        "spoken_languages": [
+            "Portugu\u00eas", 
+            "English"
+        ], 
+        "tagline": "Iron Man and the Hulk team up in groundbreaking Marvel CG Animation.", 
+        "title": "Iron Man & Hulk: Heroes United", 
+        "vote_average": 5.6, 
+        "vote_count": 18
+    }, 
+    {
+        "budget": 95000000, 
+        "genres": [
+            "Adventure", 
+            "Animation", 
+            "Comedy", 
+            "Family"
+        ], 
+        "image": "57800.jpg", 
+        "overview": "Manny, Diego, and Sid embark upon another adventure after their continent is set adrift. Using an iceberg as a ship, they encounter sea creatures and battle pirates as they explore a new world.", 
+        "pk": 57800, 
+        "release_date": "2012-07-13", 
+        "revenue": 875115339, 
+        "runtime": 88, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Manny, Diego, and Sid embark upon another adventure after their continent is set adrift.", 
+        "title": "Ice Age: Continental Drift", 
+        "vote_average": 6.2, 
+        "vote_count": 1208
+    }, 
+    {
+        "budget": 100000000, 
+        "genres": [
+            "Science Fiction"
+        ], 
+        "image": "869.jpg", 
+        "overview": "After a spectacular crash-landing on an uncharted planet, brash astronaut Leo Davidson (Mark Wahlberg) finds himself trapped in a savage world where talking apes dominate the human race. Desperate to find a way home, Leo must evade the invincible gorilla army led by Ruthless General Thade (Tim Roth) and his most trusted warrior, Attar (Michael Clarke Duncan).", 
+        "pk": 869, 
+        "release_date": "2001-07-26", 
+        "revenue": 362211740, 
+        "runtime": 119, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "You'll be sorry you were ever born human", 
+        "title": "Planet of the Apes", 
+        "vote_average": 5.7, 
+        "vote_count": 236
+    }, 
+    {
+        "budget": 160000000, 
+        "genres": [
+            "Action", 
+            "Adventure", 
+            "Mystery", 
+            "Science Fiction", 
+            "Thriller"
+        ], 
+        "image": "27205.jpg", 
+        "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.", 
+        "pk": 27205, 
+        "release_date": "2010-07-16", 
+        "revenue": 825532764, 
+        "runtime": 148, 
+        "spoken_languages": [
+            "English", 
+            "\u65e5\u672c\u8a9e", 
+            "Fran\u00e7ais"
+        ], 
+        "tagline": "Your mind is the scene of the crime.", 
+        "title": "Inception", 
+        "vote_average": 7.6, 
+        "vote_count": 6017
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Action", 
+            "Adventure", 
+            "Western"
+        ], 
+        "image": "297735.jpg", 
+        "overview": "When a farmer's wife is brutally murdered by the ruthless bandit Bobby Durango and his gang of killers, Billy Rogers goes back to his old gun and starts to hunt them one by one.", 
+        "pk": 297735, 
+        "release_date": "2014-11-08", 
+        "revenue": 0, 
+        "runtime": 80, 
+        "spoken_languages": [
+            ""
+        ], 
+        "tagline": "", 
+        "title": "6 Bullets to Hell", 
+        "vote_average": 0.0, 
+        "vote_count": 0
+    }, 
+    {
+        "budget": 66000000, 
+        "genres": [
+            "Action", 
+            "Crime", 
+            "Drama", 
+            "Thriller"
+        ], 
+        "image": "136797.jpg", 
+        "overview": "The film revolves around a local street-racer who partners with a rich and arrogant business associate, only to find himself framed by his colleague and sent to prison. After he gets out, he joins a New York-to-Los Angeles race to get revenge. But when the ex-partner learns of the scheme, he puts a massive bounty on the racer's head, forcing him to run a cross-country gauntlet of illegal racers in all manner of supercharged vehicles.", 
+        "pk": 136797, 
+        "release_date": "2014-03-14", 
+        "revenue": 63444939, 
+        "runtime": 130, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "", 
+        "title": "Need for Speed", 
+        "vote_average": 6.6, 
+        "vote_count": 403
+    }, 
+    {
+        "budget": 215000000, 
+        "genres": [
+            "Action", 
+            "Adventure", 
+            "Fantasy"
+        ], 
+        "image": "1930.jpg", 
+        "overview": "Peter Parker is an outcast high schooler was abandoned by his parents as a boy, leaving him to be raised by his Uncle Ben and Aunt May. Like most teenagers, Peter is trying to figure out who he is and how he got to be the person he is today. As Peter discovers a mysterious briefcase that belonged to his father, he begins a quest to understand his parents' disappearance\u2014leading him directly to Oscorp and the lab of Dr. Curt Connors, his father's former partner. As Spider-Man is set on a collision course with Connors' alter ego, The Lizard, Peter will make life-altering choices to use his powers and shape his destiny to become a hero.", 
+        "pk": 1930, 
+        "release_date": "2012-07-04", 
+        "revenue": 752215857, 
+        "runtime": 136, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "The untold story begins.", 
+        "title": "The Amazing Spider-Man", 
+        "vote_average": 6.3, 
+        "vote_count": 3206
+    }, 
+    {
+        "budget": 2000000, 
+        "genres": [
+            "Drama", 
+            "Thriller"
+        ], 
+        "image": "582.jpg", 
+        "overview": "A tragic love story set in East Berlin with the backdrop of an undercover Stasi controlled culture. Stasi captain Wieler is ordered to follow author Dreyman and plunges deeper and deeper into his life until he reaches the threshold of doubting the system.", 
+        "pk": 582, 
+        "release_date": "2006-03-15", 
+        "revenue": 70000000, 
+        "runtime": 137, 
+        "spoken_languages": [
+            "Deutsch"
+        ], 
+        "tagline": "Before the Fall of the Berlin Wall, East Germany's Secret Police Listened to Your Secrets.", 
+        "title": "The Lives of Others", 
+        "vote_average": 7.8, 
+        "vote_count": 243
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Action", 
+            "Adventure", 
+            "Animation", 
+            "Comedy", 
+            "Foreign"
+        ], 
+        "image": "14704.jpg", 
+        "overview": "The donkey, Rucio, tells the true story of Don Quixote and defends the idea that he wasn't insane, but a very intelligent, passionate and enthusiastic fellow.", 
+        "pk": 14704, 
+        "release_date": "2007-12-05", 
+        "revenue": 0, 
+        "runtime": 90, 
+        "spoken_languages": [
+            "Espa\u00f1ol"
+        ], 
+        "tagline": "", 
+        "title": "Donkey X", 
+        "vote_average": 5.8, 
+        "vote_count": 3
+    }, 
+    {
+        "budget": 170000000, 
+        "genres": [
+            "Action", 
+            "Adventure", 
+            "Fantasy"
+        ], 
+        "image": "76338.jpg", 
+        "overview": "Thor fights to restore order across the cosmos\u2026 but an ancient race led by the vengeful Malekith returns to plunge the universe back into darkness. Faced with an enemy that even Odin and Asgard cannot withstand, Thor must embark on his most perilous and personal journey yet, one that will reunite him with Jane Foster and force him to sacrifice everything to save us all.", 
+        "pk": 76338, 
+        "release_date": "2013-11-08", 
+        "revenue": 479765000, 
+        "runtime": 112, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Delve into the darkness", 
+        "title": "Thor: The Dark World", 
+        "vote_average": 7.1, 
+        "vote_count": 1079
+    }, 
+    {
+        "budget": 60000000, 
+        "genres": [
+            "Adventure", 
+            "Animation", 
+            "Comedy", 
+            "Family"
+        ], 
+        "image": "425.jpg", 
+        "overview": "With the impending ice age almost upon them, a mismatched trio of prehistoric critters -- Manny the woolly mammoth, Diego the saber-toothed tiger and Sid the giant sloth -- find an orphaned infant and decide to return it to its human parents. Along the way, the unlikely allies become friends. But when enemies attack, their quest takes on far nobler aims..", 
+        "pk": 425, 
+        "release_date": "2002-03-15", 
+        "revenue": 383259213, 
+        "runtime": 81, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "They came. They thawed. They conquered.", 
+        "title": "Ice Age", 
+        "vote_average": 6.6, 
+        "vote_count": 1120
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Animation", 
+            "Fantasy", 
+            "Music"
+        ], 
+        "image": "12105.jpg", 
+        "overview": "The Blue Meanies take over Pepperland, draining it of all its color and music, firing anti-music missiles, bonking people with green apples, and turning the inhabitants to stone by way of the pointed finger of a giant white glove. As the only survivor, the Lord Admiral escapes in the yellow submarine and goes to London to enlist the help of the Beatles.", 
+        "pk": 12105, 
+        "release_date": "1968-07-17", 
+        "revenue": 0, 
+        "runtime": 90, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Nothing Is Real.", 
+        "title": "Yellow Submarine", 
+        "vote_average": 6.8, 
+        "vote_count": 16
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Drama", 
+            "History"
+        ], 
+        "image": "192142.jpg", 
+        "overview": "Indiana, 1817. The entire nation, only 40 years old and a few years removed from a second war of independence, is raw. Men, women, and children alike must battle nature and disease to survive in remote log cabins. This is young Abraham Lincoln\u2019s world. Spanning three years of the future president\u2019s childhood, The Better Angels explores his family, the hardships that shaped him, the tragedy that marked him forever, and the two women who guided him to immortality.", 
+        "pk": 192142, 
+        "release_date": "2014-11-07", 
+        "revenue": 0, 
+        "runtime": 95, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "", 
+        "title": "The Better Angels", 
+        "vote_average": 0.0, 
+        "vote_count": 0
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Adventure", 
+            "Science Fiction", 
+            "Family"
+        ], 
+        "image": "238603.jpg", 
+        "overview": "After a construction project begins digging in their neighborhood, best friends Tuck, Munch and Alex inexplicably begin to receive strange, encoded messages on their cell phones. Convinced something bigger is going on, they go to their parents and the authorities. When everyone around them refuses to take the messages seriously, the three embark on a secret adventure to crack the code and follow it to its source. But taking matters into their own hands gets the trio in way over their heads when they discover a mysterious being from another world who desperately needs their help. The epic, suspenseful and exciting journey that follows will change all of their lives forever.", 
+        "pk": 238603, 
+        "release_date": "2014-07-02", 
+        "revenue": 0, 
+        "runtime": 89, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "No one will ever believe our story.", 
+        "title": "Earth to Echo", 
+        "vote_average": 5.7, 
+        "vote_count": 33
+    }, 
+    {
+        "budget": 800000, 
+        "genres": [
+            "Drama"
+        ], 
+        "image": "60243.jpg", 
+        "overview": "The movie is centered on a couple, Nader and Simin, and their 11-year-old daughter, Termeh. Nader and Simin are about to leave the country for good; however, Nader has a change of heart and decides to stay and look after his father who suffers from Alzheimer's disease. Simin is determined to get a divorce and leave the country with her daughter, but the court does not find in her favor. Simin goes to live with her mother and Termeh returns to live with her father with the hope that her mother will be back some day.", 
+        "pk": 60243, 
+        "release_date": "2011-03-15", 
+        "revenue": 0, 
+        "runtime": 123, 
+        "spoken_languages": [
+            ""
+        ], 
+        "tagline": "Ugly truth, sweet lies.", 
+        "title": "A Separation", 
+        "vote_average": 7.9, 
+        "vote_count": 136
+    }, 
+    {
+        "budget": 1500000, 
+        "genres": [
+            "Comedy", 
+            "Drama"
+        ], 
+        "image": "3082.jpg", 
+        "overview": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.", 
+        "pk": 3082, 
+        "release_date": "1936-02-05", 
+        "revenue": 8500000, 
+        "runtime": 87, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "He stands alone as the greatest entertainer of modern times! No one on earth can make you laugh as heartily or touch your heart as deeply...the whole world laughs, cries and thrills to his priceless genius!", 
+        "title": "Modern Times", 
+        "vote_average": 7.9, 
+        "vote_count": 215
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            ""
+        ], 
+        "image": "299739.jpg", 
+        "overview": "A group of B-string superheroes go on a reality show in hopes of hitting the big time.", 
+        "pk": 299739, 
+        "release_date": "2014-11-07", 
+        "revenue": 0, 
+        "runtime": 84, 
+        "spoken_languages": [
+            ""
+        ], 
+        "tagline": "", 
+        "title": "Real Heroes", 
+        "vote_average": 0.0, 
+        "vote_count": 0
+    }, 
+    {
+        "budget": 3000000, 
+        "genres": [
+            "Comedy", 
+            "Drama", 
+            "Romance"
+        ], 
+        "image": "284.jpg", 
+        "overview": "Bud Baxter is a minor clerk in a huge New York insurance company, until he discovers a quick way to climb the corporate ladder. He lends out his apartment to the executives as a place to take their mistresses. Although he often has to deal with the aftermath of their visits, one night he's left with a major problem to solve.", 
+        "pk": 284, 
+        "release_date": "1960-06-15", 
+        "revenue": 25000000, 
+        "runtime": 125, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Movie-wise, there has never been anything like it - laugh-wise, love-wise, or otherwise-wise", 
+        "title": "The Apartment", 
+        "vote_average": 7.9, 
+        "vote_count": 60
+    }, 
+    {
+        "budget": 90000000, 
+        "genres": [
+            "Adventure", 
+            "Animation", 
+            "Comedy", 
+            "Family"
+        ], 
+        "image": "8355.jpg", 
+        "overview": "Times are changing for moody mammoth Manny, motor mouthed sloth Sid and crafty saber-toothed tiger Diego in this third installment of the beloved computer-animated children's franchise. Life heats up for our heroes when they meet some new and none-too-friendly neighbors: the mighty dinosaurs.", 
+        "pk": 8355, 
+        "release_date": "2009-07-01", 
+        "revenue": 196573705, 
+        "runtime": 94, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "The sub-zero heroes are back, on an incredible adventure... for the ages.", 
+        "title": "Ice Age: Dawn of the Dinosaurs", 
+        "vote_average": 6.4, 
+        "vote_count": 649
+    }, 
+    {
+        "budget": 75000000, 
+        "genres": [
+            "Animation", 
+            "Family"
+        ], 
+        "image": "953.jpg", 
+        "overview": "Zoo animals leave the comforts of man-made habitats for exotic adventure in this animated family film. After escaping from the zoo, four friends -- a lion, a hippo, a zebra and a giraffe -- are sent back to Africa. When their ship capsizes, stranding them on Madagascar, an island populated by crazy critters, the pals must adapt to jungle life and their new roles as wild animals.", 
+        "pk": 953, 
+        "release_date": "2005-05-26", 
+        "revenue": 532680671, 
+        "runtime": 86, 
+        "spoken_languages": [
+            "Deutsch", 
+            "Fran\u00e7ais", 
+            "Portugu\u00eas", 
+            "Espa\u00f1ol", 
+            "English"
+        ], 
+        "tagline": "It's All Some Type Of Whacked Out Conspiracy.", 
+        "title": "Madagascar", 
+        "vote_average": 6.2, 
+        "vote_count": 1312
+    }, 
+    {
+        "budget": 100000000, 
+        "genres": [
+            "Drama", 
+            "Mystery", 
+            "Science Fiction", 
+            "Thriller"
+        ], 
+        "image": "157353.jpg", 
+        "overview": "Two leading computer scientists work toward their goal of Technological Singularity,  as a radical anti-technology organization fights to prevent them from creating a world where computers can transcend the abilities of the human brain.", 
+        "pk": 157353, 
+        "release_date": "2014-04-17", 
+        "revenue": 0, 
+        "runtime": 119, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "Yesterday, Dr. Will Caster was only human...", 
+        "title": "Transcendence", 
+        "vote_average": 6.0, 
+        "vote_count": 496
+    }, 
+    {
+        "budget": 5000000, 
+        "genres": [
+            "Drama", 
+            "History"
+        ], 
+        "image": "1955.jpg", 
+        "overview": "A Victorian surgeon rescues a heavily disfigured man being mistreated by his \"owner\" as a side-show freak. Behind his monstrous facade, there is revealed a person of great intelligence and sensitivity. Based on the true story  of Joseph Merrick (called John Merrick in the film), a severely deformed man in 19th century London.", 
+        "pk": 1955, 
+        "release_date": "1980-10-09", 
+        "revenue": 26010864, 
+        "runtime": 124, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "I am not an animal! I am a human being! I...am...a man!", 
+        "title": "The Elephant Man", 
+        "vote_average": 7.9, 
+        "vote_count": 103
+    }, 
+    {
+        "budget": 100000000, 
+        "genres": [
+            "Drama", 
+            "Western"
+        ], 
+        "image": "68718.jpg", 
+        "overview": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.", 
+        "pk": 68718, 
+        "release_date": "2012-12-25", 
+        "revenue": 162805434, 
+        "runtime": 165, 
+        "spoken_languages": [
+            "English", 
+            "Fran\u00e7ais", 
+            "Deutsch"
+        ], 
+        "tagline": "Life, liberty and the pursuit of vengeance.", 
+        "title": "Django Unchained", 
+        "vote_average": 7.3, 
+        "vote_count": 4637
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            "Thriller"
+        ], 
+        "image": "244761.jpg", 
+        "overview": "Eight years after the disappearance of Cassandra, some disturbing incidents seem to indicate that she's still alive. Police, parents and Cassandra herself, will try to unravel the mystery of her disappearance.", 
+        "pk": 244761, 
+        "release_date": "2014-09-05", 
+        "revenue": 0, 
+        "runtime": 112, 
+        "spoken_languages": [
+            "English"
+        ], 
+        "tagline": "When hope is all you have.", 
+        "title": "The Captive", 
+        "vote_average": 8.2, 
+        "vote_count": 3
+    }, 
+    {
+        "budget": 0, 
+        "genres": [
+            ""
+        ], 
+        "image": "297929.jpg", 
+        "overview": "METAMORPHOSIS is a show that transports you into a realm of enchantment and illusion and features performers from all over the world and array of classical circus artistry such as clowning, juggling and acrobatics plus the merriment of camels", 
+        "pk": 297929, 
+        "release_date": "2014-11-08", 
+        "revenue": 0, 
+        "runtime": 120, 
+        "spoken_languages": [
+            ""
+        ], 
+        "tagline": "", 
+        "title": "Big Apple Circus: Metamorphosis", 
+        "vote_average": 0.0, 
+        "vote_count": 0
+    }
+]

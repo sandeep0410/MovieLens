@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ImageView
+        android:id="@+id/movie_image"
+        android:layout_width="@dimen/movie_info_image_width"
+        android:layout_height="@dimen/movie_info_image_height"
+        android:layout_marginLeft="@dimen/movie_infor_marginleft_top"
+        android:layout_marginTop="@dimen/movie_infor_marginleft_top"
+        android:scaleType="fitXY" />
+
+    <ScrollView
+        android:layout_width="@dimen/movie_info_overview_width"
+        android:layout_height="@dimen/movie_info_image_height"
+        android:layout_alignTop="@id/movie_image"
+        android:layout_marginLeft="@dimen/movie_infor_marginleft_top"
+        android:layout_toRightOf="@id/movie_image"
+        android:scrollbars="none" >
+
+        <TextView
+            android:id="@+id/movie_overview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </ScrollView>
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/movie_image"
+        android:layout_marginTop="@dimen/movie_info_other_scrollview_margintop" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/other_details_bar"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/movie_info_other_text_height"
+                android:background="@android:color/darker_gray"
+                android:gravity="center"
+                android:text="Other Details"
+                android:textSize="@dimen/movie_info_texitems_textsize" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/movie_infor_marginleft_top"
+                android:layout_marginRight="@dimen/movie_infor_marginleft_top"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="@dimen/movie_info_text_item_width"
+                    android:layout_height="wrap_content"
+                    android:text="Average vote: "
+                    android:textSize="@dimen/movie_info_texitems_textsize" />
+
+                <TextView
+                    android:id="@+id/averagevote"
+                    android:layout_width="@dimen/movie_info_text_item_width"
+                    android:layout_height="wrap_content"
+                    android:text="0.0"
+                    android:textSize="@dimen/movie_info_texitems_textsize" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:layout_marginTop="@dimen/movie_info_divider_margintop"
+                android:background="@color/group_list_screen_divider_color" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/movie_infor_marginleft_top"
+                android:layout_marginRight="@dimen/movie_infor_marginleft_top"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="@dimen/movie_info_text_item_width"
+                    android:layout_height="wrap_content"
+                    android:text="Vote Count: "
+                    android:textSize="@dimen/movie_info_texitems_textsize" />
+
+                <TextView
+                    android:id="@+id/vote_count"
+                    android:layout_width="@dimen/movie_info_text_item_width"
+                    android:layout_height="wrap_content"
+                    android:text="0"
+                    android:textSize="@dimen/movie_info_texitems_textsize" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:layout_marginTop="@dimen/movie_info_divider_margintop"
+                android:background="@color/group_list_screen_divider_color" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/movie_infor_marginleft_top"
+                android:layout_marginRight="@dimen/movie_infor_marginleft_top"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="@dimen/movie_info_text_item_width"
+                    android:layout_height="wrap_content"
+                    android:text="Tagline: "
+                    android:textSize="@dimen/movie_info_texitems_textsize" />
+
+                <TextView
+                    android:id="@+id/tag_line"
+                    android:layout_width="@dimen/movie_info_text_item_width"
+                    android:layout_height="wrap_content"
+                    android:text=" "
+                    android:textSize="@dimen/movie_info_texitems_textsize" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:layout_marginTop="@dimen/movie_info_divider_margintop"
+                android:background="@color/group_list_screen_divider_color" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/movie_infor_marginleft_top"
+                android:layout_marginRight="@dimen/movie_infor_marginleft_top"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="@dimen/movie_info_text_item_width"
+                    android:layout_height="wrap_content"
+                    android:text="Budget: "
+                    android:textSize="@dimen/movie_info_texitems_textsize" />
+
+                <TextView
+                    android:id="@+id/budget"
+                    android:layout_width="@dimen/movie_info_text_item_width"
+                    android:layout_height="wrap_content"
+                    android:text="Budget"
+                    android:textSize="@dimen/movie_info_texitems_textsize" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:layout_marginTop="@dimen/movie_info_divider_margintop"
+                android:background="@color/group_list_screen_divider_color" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/movie_infor_marginleft_top"
+                android:layout_marginRight="@dimen/movie_infor_marginleft_top"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="@dimen/movie_info_text_item_width"
+                    android:layout_height="wrap_content"
+                    android:text="Runtime:"
+                    android:textSize="@dimen/movie_info_texitems_textsize" />
+
+                <TextView
+                    android:id="@+id/runtime"
+                    android:layout_width="@dimen/movie_info_text_item_width"
+                    android:layout_height="wrap_content"
+                    android:text="Runtime"
+                    android:textSize="@dimen/movie_info_texitems_textsize" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:layout_marginTop="@dimen/movie_info_divider_margintop"
+                android:background="@color/group_list_screen_divider_color" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/movie_infor_marginleft_top"
+                android:layout_marginRight="@dimen/movie_infor_marginleft_top"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="@dimen/movie_info_text_item_width"
+                    android:layout_height="wrap_content"
+                    android:text="Release Date: "
+                    android:textSize="@dimen/movie_info_texitems_textsize" />
+
+                <TextView
+                    android:id="@+id/release_date"
+                    android:layout_width="@dimen/movie_info_text_item_width"
+                    android:layout_height="wrap_content"
+                    android:text="00:00:00"
+                    android:textSize="@dimen/movie_info_texitems_textsize" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:layout_marginTop="@dimen/movie_info_divider_margintop"
+                android:background="@color/movie_info_divider_color" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/movie_infor_marginleft_top"
+                android:layout_marginRight="@dimen/movie_infor_marginleft_top"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="@dimen/movie_info_text_item_width"
+                    android:layout_height="wrap_content"
+                    android:text="Languages:  "
+                    android:textSize="@dimen/movie_info_texitems_textsize" />
+
+                <TextView
+                    android:id="@+id/language"
+                    android:layout_width="@dimen/movie_info_text_item_width"
+                    android:layout_height="wrap_content"
+                    android:text="English"
+                    android:textSize="@dimen/movie_info_texitems_textsize" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:layout_marginTop="@dimen/movie_info_divider_margintop"
+                android:background="@color/group_list_screen_divider_color" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/movie_infor_marginleft_top"
+                android:layout_marginRight="@dimen/movie_infor_marginleft_top"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="@dimen/movie_info_text_item_width"
+                    android:layout_height="wrap_content"
+                    android:text="Genres:   "
+                    android:textSize="@dimen/movie_info_texitems_textsize" />
+
+                <TextView
+                    android:id="@+id/genre"
+                    android:layout_width="@dimen/movie_info_text_item_width"
+                    android:layout_height="wrap_content"
+                    android:text="none"
+                    android:textSize="@dimen/movie_info_texitems_textsize" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:layout_marginTop="@dimen/movie_info_divider_margintop"
+                android:background="@color/group_list_screen_divider_color" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/movie_infor_marginleft_top"
+                android:layout_marginRight="@dimen/movie_infor_marginleft_top"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="@dimen/movie_info_text_item_width"
+                    android:layout_height="wrap_content"
+                    android:text="Revenue:   "
+                    android:textSize="@dimen/movie_info_texitems_textsize" />
+
+                <TextView
+                    android:id="@+id/revenue"
+                    android:layout_width="@dimen/movie_info_text_item_width"
+                    android:layout_height="wrap_content"
+                    android:text="0"
+                    android:textSize="@dimen/movie_info_texitems_textsize" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:layout_marginTop="@dimen/movie_info_divider_margintop"
+                android:background="@color/group_list_screen_divider_color" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

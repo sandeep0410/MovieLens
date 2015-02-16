@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/grouplist_hint_marginleft"
+        android:layout_marginRight="@dimen/group_list_hint_marginright"
+        android:layout_marginTop="@dimen/group_list_hint_margintop"
+        android:hint="@string/group_list_hint1"
+        android:textSize="@dimen/group_list_hint_textsize" />
+
+    <TextView
+        android:id="@+id/text2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/grouplist_hint_marginleft"
+        android:layout_marginRight="@dimen/group_list_hint_marginright"
+        android:layout_marginTop="@dimen/group_list_hint2_margintop"
+        android:hint="@string/group_list_hint2"
+        android:textSize="@dimen/group_list_hint_textsize" />
+
+    <TextView
+        android:id="@+id/text3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/grouplist_hint_marginleft"
+        android:layout_marginRight="@dimen/group_list_hint_marginright"
+        android:layout_marginTop="@dimen/group_list_hint2_margintop"
+        android:hint="@string/group_list_hint3"
+        android:textSize="@dimen/group_list_hint_textsize" />
+
+</LinearLayout>

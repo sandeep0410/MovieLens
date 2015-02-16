@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/group_list_text_margintop"
+            android:text="@string/group_list_text"
+            android:textSize="@dimen/group_list_textsize" />
+
+        <Button
+            android:id="@+id/bt_create_group"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/group_list_button_margintop"
+            android:text="@string/group_list_button_text"
+            android:textSize="@dimen/group_list_button_textsize" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_marginTop="@dimen/group_list_screen_divider_margintop"
+        android:background="@color/group_list_screen_divider_color" />
+
+    <LinearLayout
+        android:id="@+id/fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/group_list_fragment_container_margintop"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+</LinearLayout>

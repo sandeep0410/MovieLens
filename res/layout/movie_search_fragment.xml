@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+     <SearchView
+        android:id="@+id/search_view_movies"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/addfriends_searchview_marginleft"
+        android:layout_marginRight="@dimen/addfriends_searchview_marginright"
+        android:layout_marginTop="@dimen/addfriends_searchview_margintop"
+        android:hint="@string/group_creation_name_hint"
+        android:iconifiedByDefault="false"
+        android:textSize="@dimen/addfriends_searchview_textsize" />
+
+    <HorizontalScrollView
+        android:id="@+id/main_horizontal_scroll_view_movies"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/horizontal_scrollview_height"
+        android:layout_marginTop="@dimen/horizontal_scrollView_margintop"
+        android:animationCache="true" >
+
+        <LinearLayout
+            android:id="@+id/horizontal_scrollview_movies"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:id="@+id/scrollView_text_movies"
+                android:layout_width="@dimen/device_width"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:textSize="@dimen/hoirzontal_scrollview_text_size" />
+        </LinearLayout>
+    </HorizontalScrollView>
+
+    <ListView
+        android:id="@+id/movies_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/group_list_fragment_listview_marginleft"
+        android:layout_marginRight="@dimen/group_list_fragment_listview_marginleft"
+        android:layout_marginTop="@dimen/add_friends_listViewMarginTop" >
+    </ListView>
+
+</LinearLayout>

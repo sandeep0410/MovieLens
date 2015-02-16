@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MovieLens</string>
+    <string name="action_settings">Settings</string>
+    <string name="option1_text">Find Movie Information</string>
+    <string name="option2_text">Watch Movies with Friends</string>
+    <string name="option3_text">Discover Movie Trends</string>
+    <string name="option4_text">Manage MovieLens Group</string>
+    <string name="what_is_movielens">What is MovieLens?</string>
+    <string name="login_text">Login or Sign up with one of these accounts to receive persnalized movie Recommendations.</string>
+    <string name="group_list_hint1">Tell us who you will be watching movies with.</string>
+    <string name="group_list_hint2">Get movie recommendations based on everyone\'s moview preference</string>
+    <string name="group_list_hint3">Still can\'t decide? Everyone in the group can vote on what they want to watch
+        When you\'re done, look at the leaderboard to check the results.</string>
+    <string name="group_list_text">Who are you watching with?</string>
+    <string name="group_list_button_text">Create Group</string>
+    <string name="group_list_fragment_your_groups">Your Groups</string>
+    <string name="group_creation_name_hint">Group Name Here</string>
+    <string name="search_query_hint">Search Here</string>
+    <string name="add_friends_screen_name">Add Friends</string>
+    <string name="new_group">New Group</string>
+    <string name="item_me">Me</string>
+    <string name="add_members_item">Add Members</string>
+    <string name="heading_members">Members</string>
+    <string name="toast_group_created">Group Successfully Created</string>
+    <string name="toast_group_already_exists">Group already exists. Please write a new name.</string>
+    <string name="menu_option_done">Done</string>
+    <string name="add_movies_screen">Add Movies</string>
+    <string name="no_friend_selected">No Friend Selected</string>
+    <string name="no_movie_selected">No Movie Selected</string>
+    
+    <string name="recommendation_button_desc">Still haven\'t found the perfect movie for everyone? Keep going!</string>
+    <string name="recommendation_button">Get ML Recommendations</string>
+    <string name="add_movies_button_desc">Have another movie you think the group might want to watch?</string>
+    <string name="add_movies_button">Add Your Own Movies</string>
+    <string name="more_movies_text">Still haven\'t found that perfect movie? Remember you can always go back and get some
+        more MovieLens movie recommendations. Keep at it!</string>
+    <string name="select_movie_lens">Don\'t know what to watch? Let MovieLens do the work for you.</string>
+    <string name="select_your_movies">Already have an idea about what the group wants to watch?</string>
+    <string name="your_votes">Your Votes</string>
+    <string name="voting_results">Voting Results</string>
+
+    
+    
+    
+    
+    
+    
+    
+    <!-- Below is part of the drawer implementation. -->
+    
+    
+    <string name="group_name">MovieGroup</string>
+    <string name="action_settings_drawer">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="friend_names_drawer">
+        <item >Home</item>
+        <item >Find People</item>
+        <item >Photos</item>
+        <item >Communities</item>
+        <item >Pages</item>
+        <item >What\'s Hot</item>
+    </string-array>
+     
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <!--
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_people</item>
+        <item>@drawable/ic_photos</item>
+        <item>@drawable/ic_communities</item>
+        <item>@drawable/ic_pages</item>
+        <item>@drawable/ic_whats_hot</item>
+    </array>
+    -->
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+ 
+    
+</resources>

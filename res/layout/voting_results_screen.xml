@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ListView
+            android:id="@+id/movie_results"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/group_list_fragment_listview_marginleft"
+            android:layout_marginRight="@dimen/group_list_fragment_listview_marginleft"
+            android:layout_marginTop="@dimen/add_friends_listViewMarginTop" >
+        </ListView>
+
+    </RelativeLayout>
+
+</RelativeLayout>

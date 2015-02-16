@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/login_screen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/initial_page"
+    android:orientation="vertical"
+    android:padding="@dimen/login_screen_padding" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/movielens_text_margintop"
+            android:background="@drawable/movielens_text"
+            android:gravity="center" />
+
+        <TextView
+            android:layout_width="@dimen/login_text_width"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/login_text_margintop"
+            android:gravity="center"
+            android:text="@string/login_text"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/login_textsize" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            android:orientation="vertical" 
+            android:layout_marginTop="@dimen/login_layout_margintop">
+
+            <ImageButton
+                android:id="@+id/movielens_button"
+                android:layout_width="@dimen/loginbutton_width"
+                android:layout_height="@dimen/loginbutton_height"
+                android:background="@drawable/movielens_text" />
+
+            <ImageButton
+                android:id="@+id/facebook_button"
+                android:layout_width="@dimen/loginbutton_width"
+                android:layout_height="@dimen/loginbutton_height"
+                android:layout_marginTop="@dimen/loginbutton_margintop"
+                android:background="@drawable/facebook" />
+
+            <ImageButton
+                android:id="@+id/google_button"
+                android:layout_width="@dimen/loginbutton_width"
+                android:layout_height="@dimen/loginbutton_height"
+                android:layout_marginTop="@dimen/loginbutton_margintop"
+                android:background="@drawable/googleplus" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,119 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.umn.android.app.movielens.activity.HomeActivity" >
+
+    
+    <RelativeLayout
+        android:id="@+id/option_parent"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/layout_background_height"
+        android:background="@drawable/initial_page" >
+
+        <LinearLayout
+            android:id="@+id/option1"
+            android:layout_width="@dimen/main_option_width"
+            android:layout_height="@dimen/main_option_height"
+            android:layout_marginLeft="@dimen/option1_margin_lefttop"
+            android:layout_marginTop="@dimen/option1_margin_lefttop"
+            android:background="@drawable/option_background_selector"
+            android:clickable="true"
+            android:padding="@dimen/padding_for_options" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="@string/option1_text"
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/option_text_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/option2"
+            android:layout_width="@dimen/main_option_width"
+            android:layout_height="@dimen/main_option_height"
+            android:layout_marginLeft="@dimen/option1_margin_lefttop"
+            android:layout_marginTop="@dimen/option1_margin_lefttop"
+            android:layout_toRightOf="@id/option1"
+            android:background="@drawable/option_background_selector"
+            android:clickable="true"
+            android:padding="@dimen/padding_for_options" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="@string/option2_text"
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/option_text_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/option3"
+            android:layout_width="@dimen/main_option_width"
+            android:layout_height="@dimen/main_option_height"
+            android:layout_below="@id/option1"
+            android:layout_marginLeft="@dimen/option1_margin_lefttop"
+            android:layout_marginTop="@dimen/option1_margin_lefttop"
+            android:background="@drawable/option_background_selector"
+            android:clickable="true"
+            android:padding="@dimen/padding_for_options" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="@string/option3_text"
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/option_text_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/option4"
+            android:layout_width="@dimen/main_option_width"
+            android:layout_height="@dimen/main_option_height"
+            android:layout_below="@id/option2"
+            android:layout_marginLeft="@dimen/option1_margin_lefttop"
+            android:layout_marginTop="@dimen/option1_margin_lefttop"
+            android:layout_toRightOf="@id/option3"
+            android:background="@drawable/option_background_selector"
+            android:clickable="true"
+            android:padding="@dimen/padding_for_options" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="@string/option4_text"
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/option_text_size" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/option_parent"
+        android:layout_marginTop="@dimen/option1_margin_lefttop"
+        android:background="@android:color/background_dark"
+        android:gravity="center" >
+
+        <Button
+            android:id="@+id/helpButton"
+            style="@android:style/ButtonBar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:background="@android:color/holo_purple"
+            android:gravity="center"
+            android:text="@string/what_is_movielens"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+
+</RelativeLayout>

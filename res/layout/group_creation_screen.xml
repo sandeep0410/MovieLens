@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/group_name_new"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/group_creation_margin_leftright"
+        android:layout_marginRight="@dimen/group_creation_margin_leftright"
+        android:layout_marginTop="@dimen/group_creation_margin_top"
+        android:hint="Group Name"
+        android:imeOptions="actionDone"
+        android:maxLength="32"
+        android:maxLines="1"
+        android:singleLine="true"
+        android:textSize="@dimen/group_creation_textsize" />
+
+    <TextView
+        android:id="@+id/group_members"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/group_creation_item_marginleftright"
+        android:layout_marginTop="@dimen/group_creation_textview_marginTop"
+        android:text="Members (1)"
+        android:textSize="@dimen/group_creation_textsize" />
+
+    <ListView
+        android:id="@+id/group_members_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/group_list_fragment_listview_marginleft"
+        android:layout_marginRight="@dimen/group_list_fragment_listview_marginleft"
+        android:layout_marginTop="@dimen/group_list_fragment_listview_margintop" >
+    </ListView>
+
+</LinearLayout>
